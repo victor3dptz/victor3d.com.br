@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    <!-- Bootstrap -->
+    <link href="/style.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter43629429 = new Ya.Metrika({ id:43629429, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/43629429" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+
+<style>
+   ol { padding: 0px; margin: 0px; list-style: decimal-leading-zero inside; color: #ccc; width: 460px; border-top: 1px solid #ccc; font-size: 0.9em; }
+        ol li { position: relative; margin: 0px; padding: 9px 2px 10px; border-bottom: 1px solid #ccc; cursor: pointer; }
+        ol li a { display: block; text-indent: -3.3ex; padding: 0px 0px 0px 20px; }
+        li.playing { color: #aaa; text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.3); }
+        li.playing a { color: #000; }
+        li.playing:before { content: '♬'; width: 14px; height: 14px; padding: 3px; line-height: 14px; margin: 0px; position: absolute; left: -24px; top: 9px; color: #000; font-size: 13px; text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2); }
+
+    }
+</style>
+ <script src="https://www.victor3d.com.br/musicas/js/audio.js"></script>
+ 
+    <script>
+        $(function() {
+            // Setup the player to autoplay the next track
+            var a = audiojs.createAll({
+                trackEnded: function() {
+                    var next = $('ol li.playing').next();
+                    if (!next.length) next = $('ol li').first();
+                    next.addClass('playing').siblings().removeClass('playing');
+                    audio.load($('a', next).attr('data-src'));
+                    audio.play();
+                }
+            });
+
+            // Load in the first track
+            var audio = a[0];
+            first = $('ol a').attr('data-src');
+            $('ol li').first().addClass('playing');
+            audio.load(first);
+
+            // Load in a track on click
+            $('ol li').click(function(e) {
+                e.preventDefault();
+                $(this).addClass('playing').siblings().removeClass('playing');
+                audio.load($('a', this).attr('data-src'));
+                audio.play();
+            });
+            // Keyboard shortcuts
+            $(document).keydown(function(e) {
+                var unicode = e.charCode ? e.charCode : e.keyCode;
+                // right arrow
+                if (unicode == 39) {
+                    var next = $('li.playing').next();
+                    if (!next.length) next = $('ol li').first();
+                    next.click();
+                    // back arrow
+                } else if (unicode == 37) {
+                    var prev = $('li.playing').prev();
+                    if (!prev.length) prev = $('ol li').last();
+                    prev.click();
+                    // spacebar
+                } else if (unicode == 32) {
+                    audio.playPause();
+                }
+            })
+        });
+    </script>
+  </head>
+  <body>
+<nav class="navbar navbar-inverse" role="navigation">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <div class="navbar-brand"><img src="/img/flag_br.png" width=30 height=30 class="img-circle"></div>
+      <a class="navbar-brand" href="https://www.victor3d.com.br/">Página Inicial</a>
+    </div>
+<ul class="nav navbar-nav">
+	 <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Músicas<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+			  <li><a href=/musicas/>Músicas Nacionais</a></li>
+<li><a href=/midi/>Músicas MIDI</a></li>
+            <li><a href="/letras/">Letras de músicas</a></li>
+              </ul>
+        </li>
+ <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Computadores<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+           <li><a href="/linux/">Linux</a></li>
+            <li><a href="/mac/">Macintosh</a></li>
+            <li class="divider"></li>
+            <li><a href="/irc/">Guia do IRC</a></li>
+<li class="divider"></li>
+<li><a href="/games/">Dicas de Games</a></li>
+          </ul>
+        </li>
+ <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Informações<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+           <li><a href="/humor/">Humor</a></li>
+            <li class="divider"></li>
+            <li><a href="/artigos/">Artigos</a></li>
+	<li><a href="/novelas/">Novelas</a></li>
+          </ul>
+        </li>
+        
+     
+       
+        
+       
+</ul>
+        <form class="navbar-form navbar-left" role="search" action="https://duckduckgo.com/" method="get">
+        <div class="form-group">
+          <input type="text" placeholder="Buscar no site" class="form-control" name="q" id="q">	
+	<input type="hidden" name="sites" value="victor3d.com.br">
+        </div>
+
+        <button type="submit" class="btn btn-default">Pesquisar</button>
+      </form>
+
+
+
+
+  <ul class="nav navbar-nav navbar-right">
+        <li><a href="/fale_conosco/">Fale Conosco</a></li>
+</ul>
+  </div><!-- /.container -->
+</nav>
+<div class="container text-center">
+<iframe data-aa='388597' src='//ad.a-ads.com/388597?size=728x90' scrolling='no' style='width:728px; height:90px; border:0px; padding:0;overflow:hidden' allowtransparency='true'></iframe>
+</div>
+
+</div>
+
+
+
+{{ content }}
+<br>    
+ <div class="container text-center">
+	 <iframe data-aa='391346' src='//ad.a-ads.com/391346?size=468x60' scrolling='no' style='width:468px; height:60px; border:0px; padding:0;overflow:hidden' allowtransparency='true'></iframe>
+</div>
+  <div id="footer">
+      <div class="container">
+        <p class="text-muted text-center">2014-<time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>&copy;Victor3D</p>
+      </div>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="/js/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+  </body>
+</html>

@@ -1,0 +1,14 @@
+---
+---
+
+//
+// IMPORTS
+//
+
+@import "bootstrap";
+// Syntax highlighting @import is at the bottom of this file
+
+table { 
+    @extend .table;
+    @extend .table-bordered;
+}
