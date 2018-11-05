@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Fale Conosco
+title: Obrigado
 permalink: /fale_conosco/obrigado.html
 ---
 
-### Obrigado!
