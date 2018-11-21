@@ -47,6 +47,8 @@ cadeia. No mesmo capítulo a história deu um salto no tempo. Passaram-se os
 vinte anos e Clementino, prestes a sair da prisão, só pensava em se vingar
 do ex-patrão. César, por sua vez, vivia um momento muito rico de sua vida.
 
+![Logo](/novelas/img/torre_de_babel_logo.jpg){:style="float: right; margin-right: 7px; margin-top: 7px;"}
+
 Estava para inaugurar um grande shopping center, tinha acabado de rever um
 grande amor do passado - Lúcia Prado - e enfrentava problemas com a polícia
 por causa de um filho viciado em drogas, Guilherme. Ao contrário da família
