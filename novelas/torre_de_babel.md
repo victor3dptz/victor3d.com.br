@@ -208,17 +208,17 @@ Quando começou, a novela TORRE DE BABEL retratava bem a sociedade dos nossos di
 
 ### Fotos
 
-![Tony Ramos](/novelas/img/torre_de_babel_tony_ramos.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Claudia Jimenez](/novelas/img/torre_de_babel_claudia_jimenez.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Cacá Carvalho](/novelas/img/torre_de_babel_caca_carvalho.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Adriana Esteves](/novelas/img/torre_de_babel_adriana_esteves.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Silvia Pfeifer e Christiane Torloni](/novelas/img/torre_de_babel_silvia_pfeifer_e_christiane_torloni.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Oscar Magrini e Ernani Moraes](/novelas/img/torre_de_babel_oscar_magrini_e_ernani_moraes.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Maitê Proença e Tony Ramos](/novelas/img/torre_de_babel_maite_proenca_e_tony_ramos.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Letícia Sabatella, Tarcísio Meira e Felipe Latgê](/novelas/img/torre_de_babel_leticia_sabatella_tarcisio_meira_e_felipe_latge.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Juca de Oliveira e Karina Barum](/novelas/img/torre_de_babel_juca_de_oliveira_e_karina_barum.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Glória Menezes](/novelas/img/torre_de_babel_gloria_menezes.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Claudia Raia e Tony Ramos](/novelas/img/torre_de_babel_claudia_raia_e_tony_ramos.jpg){:style="height: 200px; float: none; margin-right: 7px; margin-top: 7px;"}
+![Tony Ramos](/novelas/img/torre_de_babel_tony_ramos.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Claudia Jimenez](/novelas/img/torre_de_babel_claudia_jimenez.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Cacá Carvalho](/novelas/img/torre_de_babel_caca_carvalho.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Adriana Esteves](/novelas/img/torre_de_babel_adriana_esteves.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Silvia Pfeifer e Christiane Torloni](/novelas/img/torre_de_babel_silvia_pfeifer_e_christiane_torloni.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Oscar Magrini e Ernani Moraes](/novelas/img/torre_de_babel_oscar_magrini_e_ernani_moraes.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Maitê Proença e Tony Ramos](/novelas/img/torre_de_babel_maite_proenca_e_tony_ramos.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Letícia Sabatella, Tarcísio Meira e Felipe Latgê](/novelas/img/torre_de_babel_leticia_sabatella_tarcisio_meira_e_felipe_latge.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Juca de Oliveira e Karina Barum](/novelas/img/torre_de_babel_juca_de_oliveira_e_karina_barum.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Glória Menezes](/novelas/img/torre_de_babel_gloria_menezes.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Claudia Raia e Tony Ramos](/novelas/img/torre_de_babel_claudia_raia_e_tony_ramos.jpg){:style="height: 250px; float: none; margin-right: 7px; margin-top: 7px;"}
 
 ### Trilha Sonora
 
