@@ -255,6 +255,7 @@ ANJO MAU | 1997 | 18h00
 ZAZÁ | 1997 | 19h00
 POR AMOR | 1997 | 20h30
 CORPO DOURADO | 1998 | 19h00
+[TORRE DE BABEL](/novelas/torre_de_babel.html) | 1998 | 20h35
 
 ### Rede Manchete
 
