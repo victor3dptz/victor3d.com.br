@@ -36,7 +36,9 @@ Eduardo Moscovis | |
 
 ### Abertura
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/VdKrOv_JbDg?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video poster="/novelas/img/mulheres_de_areia2_logo.png" id="player" playsinline controls>
+    <source src="http://srv.victor3d.com.br/novelas/mulheres_de_areia_1993.mp4" type="video/mp4">
+</video>
 
 ### Sinopse
 

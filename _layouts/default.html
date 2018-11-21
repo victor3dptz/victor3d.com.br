@@ -80,6 +80,7 @@
             })
         });
     </script>
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.4.7/plyr.css">
   </head>
   <body>
 <nav class="navbar navbar-inverse" role="navigation">
@@ -159,6 +160,9 @@
         <p class="text-muted text-center">2014-<time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>&copy;Victor3D</p>
       </div>
     </div>
+
+<script src="https://cdn.plyr.io/3.4.7/plyr.js"></script>
+<script>const player = new Plyr('#player');</script>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="/js/jquery.min.js"></script>
