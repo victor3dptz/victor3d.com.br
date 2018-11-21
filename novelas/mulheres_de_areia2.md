@@ -34,6 +34,10 @@ Paulo Goulart | Joel Barcelos | Graziela de Laurentis
 Gabriela Alves | Lu Mendonça | Carlos Zara
 Eduardo Moscovis | |
 
+### Abertura
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/VdKrOv_JbDg?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Sinopse
 
 Reedição de um dos maiores sucessos de Ivani Ribeiro, 20 anos depois. As tramas de **Mulheres de Areia** dessa vez, foram incorporadas à espinha dorsal de **O Espantalho**, ou seja, os dramas do prefeito Breno *(Daniel Dantas)* ao proibir banhos de mar ante a poluição perigosa das praias. Todavia, foi o confronto das irmãs gêmeas, Ruth e Raquel *([Glória Pires](/novelas/gloria_pires.html))*, que conduziu essa versão da Rede Globo `a mesma repercussão que atingiu a TV Tupi em 1973. Uma produção vitoriosa sob todos os aspectos. Elenco vigoroso, perfeitamente escalado e uma direção perfeita de Wolf Maia proporcionaram ao público mais um delicioso momento da telenovela brasileira.
