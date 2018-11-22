@@ -34,6 +34,12 @@ Natália do Valle | Felipe Latjé | Roberto Lobo
 Victor Fasano | Felipe Rocha | 
 Stênio Garcia | |
 
+### Abertura
+
+<video poster="/novelas/img/torre_de_babel_abertura.png" id="player" playsinline controls>
+    <source src="http://srv.victor3d.com.br/novelas/torre_de_babel_1998.mp4" type="video/mp4">
+</video>
+
 ### Trama
 
 A espinha dorsal de Torre de Babel estava na trajetória de doishomens. Um era César Toledo, empresário rico, poderoso e de bom caráter.
