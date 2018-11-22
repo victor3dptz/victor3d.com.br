@@ -8,7 +8,7 @@ Rede Globo - 20h40
 
 de 17 Agosto de 1996 a 14 Fevereiro de 1997
 
-![O Rei do Gado](/novelas/img/o_rei_do_gado_foto_antiga.jpg)
+![O Rei do Gado](/novelas/img/o_rei_do_gado_logo.jpg)
 
 Novela de Benedito Ruy Barbosa
 
@@ -42,7 +42,6 @@ O que eu detesto é essa utilização da novela não como conscientização e si
 ### Fotos
 
 ![Sem Terras](/novelas/img/o_rei_do_gado_sem_terras.jpg){:style="height: 195px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Patrícia Pillar como Luana](/novelas/img/o_rei_do_gado_patricia_pillar.jpg){:style="height: 195px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Léa e o malandro fino Ralf](/novelas/img/o_rei_do_gado_silvia_pfeiffer_e_oscar_m.jpg){:style="height: 195px; float: none; margin-right: 7px; margin-top: 7px;"}
 
 ### Tema de Abertura
