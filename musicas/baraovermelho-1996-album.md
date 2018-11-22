@@ -18,3 +18,4 @@ permalink: /musicas/baraovermelho-1996-album.html
 <li><a href="#" data-src="http://srv.victor3d.com.br/baraovermelho-1996-album/08.mp3">Não Há Dinheiro Que Pague</a></li>
 <li><a href="#" data-src="http://srv.victor3d.com.br/baraovermelho-1996-album/09.mp3">Jardins Da Babilônia</a></li>
 <li><a href="#" data-src="http://srv.victor3d.com.br/baraovermelho-1996-album/10.mp3">Um Índio</a></li></ol>
+
