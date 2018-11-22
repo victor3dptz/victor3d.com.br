@@ -4,4 +4,4 @@ title: Dominguinhos
 permalink: /midi/dominguinhos.html
 ---
 
-* [Eu só quero um Xodô](http://www.victor3d.com.br/midi/xodo.mid)
+* [Eu só quero um Xodô](http://srv.victor3d.com.br/midi/xodo.mid)
