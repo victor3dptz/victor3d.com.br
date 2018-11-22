@@ -6,7 +6,7 @@ permalink: /novelas/dancin_days.html
 
 Rede Globo - 20h
 
-de 10 de julho de 1978 a 27 de janeiro de 1970
+de 10 de julho de 1978 a 27 de janeiro de 1979
 
 ![Dancin'Days](/novelas/img/dancin_days_logo.jpg)
 
@@ -27,6 +27,12 @@ Mira Palheta | Fernando Amaral | Suzana Queiroz
 Luciano Sabino | Rejane Schumann | Renato Pedrosa
 Selma Lopes | Osmar de Matos | Sandra Campos
 Júlio Luís	| |
+
+### Abertura
+
+<video poster="/novelas/img/dancin_days_abertura.png" id="player" playsinline controls>
+    <source src="http://srv.victor3d.com.br/novelas/dancin_days_1978.mp4" type="video/mp4">
+</video>
 
 ### Sinopse
 
