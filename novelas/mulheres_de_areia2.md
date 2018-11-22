@@ -8,7 +8,7 @@ REDE GLOBO - 18h
 
 de 1 de fevereiro a 25 de Setembro de 1993
 
-![Mulheres de Areia](/novelas/img/mulheres_de_areia_glorias_pires.jpg)
+![Mulheres de Areia](/novelas/img/mulheres_de_areia_logo.jpg)
 
 Novela de Ivani Ribeiro
 
@@ -52,9 +52,27 @@ A nova versão de "Mulheres de Areia", 20 anos depois de ser exibida pela TV Tup
 
 ### Fotos
 
-![Tonho da Lua e sua Mulher de Areia](/novelas/img/mulheres_de_areia_m_frota_e_denise_milfont.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Família Assunção](/novelas/img/mulheres_de_areia_raul_suzana_viviane_m.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Seu Donato e Tonho da Lua](/novelas/img/mulheres_de_areia_paulo_goulart_e_marcos_f.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Eloísa Mafalda e Sebastião Vasconcelos](/novelas/img/mulheres_de_areia_eloisa_mafalda_e.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Marcos e Raquel](/novelas/img/mulheres_de_areia_guilerme_fontes_e_g_pires.jpg){:style="height: 200px; float: none; margin-right: 7px; margin-top: 7px;"}
+![Marcos e Raquel](/novelas/img/mulheres_de_areia_guilerme_fontes_e_g_pires.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Gloria Pires](/novelas/img/mulheres_de_areia_glorias_pires.jpg){:style="height: 200px; float: none; margin-right: 7px; margin-top: 7px;"}
 
