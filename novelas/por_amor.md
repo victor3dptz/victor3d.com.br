@@ -38,6 +38,12 @@ Marco Ricca | Stella Maria Rodrigues | Juliana Aguiar
 Ângela Vieira | Cláudia Mauro | 
 Carolina Dieckmann | Karina Perez | 
 
+### Abertura
+
+<video poster="/novelas/img/por_amor_abertura.png" id="player" playsinline controls>
+    <source src="http://srv.victor3d.com.br/novelas/por_amor_1997.mp4" type="video/mp4">
+</video>
+
 ### Sinopse
 
 A novela contava o drama de Helena, que amava Atílio, engravidou dele e, foi parar na maternidade no mesmo dia que a sua filha Maria Eduarda. Percebendo que o neto havia morrido e Eduarda não mais poderia Ter filhos, Helena toma a decisão de trocar os bebês. A partir daí a sua vida amorosa com Atílio fica comprometida pois ele descobre que ela guarda um segredo. Era também a novela de Branca, apaixonada por Atílio apesar de esposa do sócio dele. A megera tentava separá-lo de Helena.
