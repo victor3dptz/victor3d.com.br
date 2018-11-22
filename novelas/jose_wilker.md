@@ -34,7 +34,7 @@ Corpo Santo | Manchete | 1987 | José Louzeiro e Cláudio Mac Dowell
 Carmem | Manchete | 1987/88 | Glória Perez
 O Salvador da Pátria | Globo | 1989 | Lauro César Muniz
 Mico Preto | Globo | 1990 | Marcílio Moraes, Leonor Bassères e Euclydes Marinho
-Renascer | Globo | 1993 | Benedito Ruy Barbosa
+[Renascer](/novelas/renascer.html) | Globo | 1993 | Benedito Ruy Barbosa
 Fera Ferida | Globo | 1993 | Aguinaldo Silva, Ana Maria Moretzsohn e Ricardo Linhares
 [A Próxima Vítima](/novelas/a_proxima_vitima.html) | Globo | 1995 | Sílvio de Abreu
 Anjo de Mim | Globo | 1996/97 | Walter Negrão

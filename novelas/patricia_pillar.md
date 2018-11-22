@@ -17,6 +17,6 @@ Brega & Chique | Globo | 1987 | Cassiano Gabus Mendes
 Vida Nova | Globo | 1988/89 | Benedito Ruy Barbosa
 Rainha da Sucata | Globo | 1990 | Sílvio de Abreu
 Salomé | Globo | 1991 | Sérgio Marques
-Renascer | Globo | 1993 | Benedito Ruy Barbosa
+[Renascer](/novelas/renascer.html) | Globo | 1993 | Benedito Ruy Barbosa
 Pátria Minha | Globo | 1994/95 | Gilberto Braga
 [O Rei do Gado](/novelas/o_rei_do_gado.html) | Globo | 1996/97 | Benedito Ruy Barbosa
