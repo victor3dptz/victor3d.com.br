@@ -18,4 +18,4 @@ Vale Tudo | Globo | 1988/89 | Gilberto Braga Aguinaldo Silva e Leonor Bassères
 Barriga de Aluguel | Globo | 1990/91 | Glória Perez
 Fera Ferida | Globo | 1993 | Aguinaldo Silva, Ana Maria Moretzsohn e Ricardo Linhares
 Quem é Você? | Globo | 1996 | Ivani Ribeiro
-Por Amor | Globo | 1997 | Manoel Carlos
+[Por Amor](/novelas/por_amor.html) | Globo | 1997 | Manoel Carlos

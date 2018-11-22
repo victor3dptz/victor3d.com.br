@@ -35,4 +35,4 @@ Vale Tudo | Globo | 1988/89 | Gilberto Braga Aguinaldo Silva e Leonor Bassères
 Top Model (participação especial) | Globo | 1989/90 | Walter Negrão e Antonio Calmon
 Rainha da Sucata | Globo | 1990 | Sílvio de Abreu
 História de Amor | Globo | 1995/96 | Manoel Carlos
-Por Amor | Globo | 1997 | Manoel Carlos
+[Por Amor](/novelas/por_amor.html) | Globo | 1997 | Manoel Carlos

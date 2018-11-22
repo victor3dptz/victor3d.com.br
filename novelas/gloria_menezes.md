@@ -39,3 +39,4 @@ Rainha da Sucata | Globo | 1990 | Sílvio de Abreu
 Deus nos Acuda | Globo | 1992/93 | Sílvio de Abreu
 [A Próxima Vítima](/novelas/a_proxima_vitima.html) | Globo | 1995 | Sílvio de Abreu
 Viralata | Globo | 1996 | Carlos Lombardi
+[Torre de Babel](/novelas/torre_de_babel.html) | Globo | 1198 | Silvio de Abreu
