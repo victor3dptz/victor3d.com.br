@@ -44,18 +44,17 @@ O começo não parecia promissor. Às vésperas da estréia, várias cenas tiver
 
 ### Fotos
 
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![José Lewgoy e Joana Fomm](/novelas/img/dancin_days_jose_lewgoy_joana_fomm.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Mário Lago e Sônia Braga](/novelas/img/dancin_days_mario_lago_e_sonia_braga.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Saltos finos e meias lurex](/novelas/img/dancin_days_meias_lurex.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Reginaldo Faria, Sônia Braga, Ary Fontoura e Milton Moraes](/novelas/img/dancin_days_reginaldo_faria_sonia_braga_ary_fontoura_e_milton_moraes.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Antonio Fagundes e Sônia Braga](/novelas/img/dancin_days_antonio_fagundes_e_sonia_braga.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Glória Pires](/novelas/img/dancin_days_gloria_pires.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Ary Fontoura e Ruth de Souza](/novelas/img/dancin_days_ary_fontoura_e_ruth_de_souza.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Beatriz Segall e Antonio Fagundes](/novelas/img/dancin_days_beatriz_segall_e_antonio_fagundes.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Glória Pires e Joana Fomm](/novelas/img/dancin_days_gloria_pires_e_joana_fomm.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Milton Moraes e Pepita Rodrigues](/novelas/img/dancin_days_milton_moraes_e_pepita_rodrigues.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Lauro Corona e Regina Vianna](/novelas/img/dancin_days_lauro_corona_e_regina_vianna.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Sonia Braga](/novelas/img/dancin_days_sonia_danca.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Beatriz Segall e Antônio Fagundes](/novelas/img/dancin_days_b_segal_e_a_fagundes.jpg){:style="height: 139px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Família: Lauro Corona, Claudio Corrêa e Castro,Beatriz Segall e Antônio Fagundes](/novelas/img/dancin_days_familia.jpg){:style="height: 139px; float: none; margin-right: 7px; margin-top: 7px;"}
