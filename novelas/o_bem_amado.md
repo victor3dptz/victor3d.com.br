@@ -10,7 +10,7 @@ de 24 de Janeiro a 9 de Outubro de 1973
 
 reapresentada em 3 de Janeiro a 24 de Junho de 1977
 
-![O Bem Amado](/novelas/img/o_bem_amado_p_gracindo.jpg)
+![O Bem Amado](/novelas/img/o_bem_amado_logo.jpg)
 
 Novela de Dias Gomes
 
@@ -31,6 +31,12 @@ Juan Daniel | André Valli | Wilson Aguiar
 Nanai | Jorge Botelho | Apolo Correia
 Dorinha Durval | Angelito Mello | 
 
+### Abertura
+
+<video poster="/novelas/img/o_bem_amado_abertura.png" id="player" playsinline controls>
+    <source src="http://srv.victor3d.com.br/novelas/o_bem_amado_1973.mp4" type="video/mp4">
+</video>
+
 ### Sinopse
 
 O Prefeito Odorico Paraguaçu (*[Paulo Gracindo](/novelas/paulo_gracindo.html)*) tem como meta prioritária, em sua administração na cidade de Sucupira, litoral baiano, a inauguração do cemitério. De um lado é apoiado pelas irmãs Cajazeiras-Dorotéa, Dulcinéa, Judicéa (*Ida Gomes*, *Dorinha Duval*, *Dirce Migliaccio*). De outro, tem que lutar com a forte oposição liderada por Donana Medrado (*Zilka Salaberry*), a delegada de polícia.
@@ -40,7 +46,6 @@ Maquiavelicamente, o prefeito arma tramas para que morra alguém, sendo sempre m
 ### Fotos
 
 ![As Irmãs Cajazeiras assustadas...Deus sabe pelo que?](/novelas/img/o_bem_amado_irmas_cajazeiras.jpg){:style="height: 190px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Donana Medrado em ação](/novelas/img/o_bem_amado_zilka_a_olimpio_e_angelit.jpg){:style="height: 190px; float: none; margin-right: 7px; margin-top: 7px;"}
 
 ### Diálogo
 
