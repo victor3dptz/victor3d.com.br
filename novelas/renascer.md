@@ -4,12 +4,20 @@ title: Renascer
 permalink: /novelas/renascer.html
 ---
 
-![Novela](address)
+![Renascer](/novelas/img/renascer_logo.jpg)
 
 ### Elenco
 
 ### Fotos
 
-![1](address){:style="height: 190px; float: left; margin-right: 7px; margin-top: 7px;"}
-![2](address){:style="height: 190px; float: none; margin-right: 7px; margin-top: 7px;"}
+![1](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![1](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![1](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![1](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![1](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![1](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![1](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![1](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![1](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![2](/novelas/img/.jpg){:style="height: 250px; float: none; margin-right: 7px; margin-top: 7px;"}
 
