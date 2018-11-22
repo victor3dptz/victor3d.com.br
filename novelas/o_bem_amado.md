@@ -45,7 +45,18 @@ Maquiavelicamente, o prefeito arma tramas para que morra alguém, sendo sempre m
 
 ### Fotos
 
-![As Irmãs Cajazeiras assustadas...Deus sabe pelo que?](/novelas/img/o_bem_amado_irmas_cajazeiras.jpg){:style="height: 190px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Paulo Gracindo](/novelas/img/o_bem_amado_paulo_gracindo.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Lima Duarte](/novelas/img/o_bem_amado_lima_duarte.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Paulo Gracindo, Dirce Migliaccio e André Valli](/novelas/img/o_bem_amado_paulo_gracindo_dirce_migliaccio_andre_valli.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Zilka Salaberry, Augusto Olímpio, Angelito Mello e Tereza Cristina](/novelas/img/o_bem_amado_zilka_salaberry_augusto_olimpio_angelito_mello_tereza_cristina.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Emiliano Queiroz](/novelas/img/o_bem_amado_emiliano_queiroz.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Ida Gomes, Dorinha Duval e Dirce Migliaccio](/novelas/img/o_bem_amado_ida_gomes_dorinha_duval_e_dirce_migliaccio.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Ruth de Souza e Milton Gonçalves](/novelas/img/o_bem_amado_ruth_de_souza_e_milton_goncalves.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Augusto Olímpio, Paulo Gracindo e Zilka Salaberry](/novelas/img/o_bem_amado_augusto_olimpio_paulo_gracindo_e_zilka_salaberry.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Emiliano Queiroz e Paulo Gracindo](/novelas/img/o_bem_amado_emiliano_queiroz_paulo_gracindo.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Gracindo Júnior](/novelas/img/o_bem_amado_gracindo_junior.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Ida Gomes](/novelas/img/o_bem_amado_ida_gomes.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![As Irmãs Cajazeiras assustadas...Deus sabe pelo que?](/novelas/img/o_bem_amado_irmas_cajazeiras.jpg){:style="height: 190px; float: none; margin-right: 7px; margin-top: 7px;"}
 
 ### Diálogo
 
