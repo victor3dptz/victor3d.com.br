@@ -8,7 +8,7 @@ Rede Globo - 20h30
 
 estréia : 13 de Março de 1995
 
-![A Próxima Vítima](/novelas/img/a_proxima_vitima_logo.jpg)
+![Gianfrancesco Guarnieri](/novelas/img/a_proxima_vitima_gianfrancesco_guarnieri.jpg)
 
 Novela de Sílvio de Abreu
 
@@ -45,6 +45,17 @@ A Próxima Vítima conta a história de Ana *(Suzana Vieira)* que é a "outra" h
 
 ### Fotos
 
-![Gianfrancesco Guarnieri](/novelas/img/a_proxima_vitima_gianfrancesco_guarnieri.jpg){:style="height: 300px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Claudia Ohana como Isabela](/novelas/img/a_proxima_vitima_claudia_ohana.jpg){:style="height: 300px; float: none; margin-right: 7px; margin-top: 7px;"}
+![Claudia Ohana como Isabela](/novelas/img/a_proxima_vitima_claudia_ohana.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Tony Ramos e Susana Vieira](/novelas/img/a_proxima_vitima_tony_ramos_e_susana_vieira.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Alexandre Borges e Rosamaria Murtinho](/novelas/img/a_proxima_vitima_alexandre_borges_e_rosamaria_murtinho.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Vera Holtz e Nicette Bruno](/novelas/img/a_proxima_vitima_vera_holtz_e_nicette_bruno.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Lugui Palhares e Yoná Magalhães](/novelas/img/a_proxima_vitima_lugui_palhares_e_yona_magalhaes.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Aracy Balabanian e Tereza Rachel](/novelas/img/a_proxima_vitima_aracy_balabanian_e_tereza_rachel.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Lui Mendes](/novelas/img/a_proxima_vitima_lui_mendes.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Cecil Thiré](/novelas/img/a_proxima_vitima_cecil_thire.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Zezé Motta e Camila Pitanga](/novelas/img/a_proxima_vitima_zeze_motta_e_camila_pitanga.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Claudia Ohana](/novelas/img/a_proxima_vitima_claudia_ohana2.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![André Gonçalves](/novelas/img/a_proxima_vitima_andre_goncalves.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Deborah Secco e José Wilker](/novelas/img/a_proxima_vitima_deborah_secco_e_jose_wilker.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Lima Duarte e Tony Ramos](/novelas/img/a_proxima_vitima_lima_duarte_e_tony_ramos.jpg){:style="height: 250px; float: none; margin-right: 7px; margin-top: 7px;"}
 
