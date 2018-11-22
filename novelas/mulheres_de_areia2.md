@@ -36,7 +36,7 @@ Eduardo Moscovis | |
 
 ### Abertura
 
-<video poster="/novelas/img/mulheres_de_areia2_logo.png" id="player" playsinline controls>
+<video poster="/novelas/img/mulheres_de_areia_abertura.png" id="player" playsinline controls>
     <source src="http://srv.victor3d.com.br/novelas/mulheres_de_areia_1993.mp4" type="video/mp4">
 </video>
 
