@@ -52,24 +52,24 @@ A nova versão de "Mulheres de Areia", 20 anos depois de ser exibida pela TV Tup
 
 ### Fotos
 
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Marcos Frota e Paulo Goulart](/novelas/img/mulheres_de_areia_marcos_frota_e_paulo_goulart.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Sebastião Vasconcelos e Ricardo Blat](/novelas/img/mulheres_de_areia_sebastiao_vasconcellos_e_ricardo_blat.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Laura Cardoso, Sebastião Vasconcelos e Glória Pires](/novelas/img/mulheres_de_areia_laura_cardoso_sebastiao_vasconcelos_e_gloria_pires.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Humberto Martins e Glória Pires](/novelas/img/mulheres_de_areia_humberto_martins_e_gloria_pires.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Guilherme Fontes e Susana Vieira](/novelas/img/mulheres_de_areia_guilherme_fontes_e_susana_vieira.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Etapas da gravação de cena com Glória Pires como Ruth e Raquel simultaneamente](/novelas/img/mulheres_de_areia_ruth_e_raquel.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Alexandra Marzo e Susana Vieira](/novelas/img/mulheres_de_areia_alexandra_marzo_e_susana_vieira.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Andréa Beltrão e Raul Cortez](/novelas/img/mulheres_de_areia_andrea_beltrao_e_raul_cortez.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Paulo Goulart e Paulo Betti](/novelas/img/mulheres_de_areia_paulo_goulart_e_paulo_betti.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Edwin Luisi e Fabricio Bittar](/novelas/img/mulheres_de_areia_edwin_luisi_e_fabricio_bittar.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Susana Vieira e Raul Cortez](/novelas/img/mulheres_de_areia_susana_vieira_e_raul_cortez.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Marcos Frota, Giovanna Gold e Gabriela Alves](/novelas/img/mulheres_de_areia_marcos_frota_giovanna_gold_e_gabriela_alves.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Isadora Ribeiro e Alexia Deschamps](/novelas/img/mulheres_de_areia_isadora_ribeiro_e_alexia_deschamps.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Glória Pires, Raul Cortez, Viviane Pasmanter e Suely Franco](/novelas/img/mulheres_de_areia_gloria_pires_raul_cortez_viviane_pasmanter_e_suely_franco.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Guilherme Fontes e Glória Pires](/novelas/img/mulheres_de_areia_guilherme_fontes_e_gloria_pires.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Glória Pires](/novelas/img/mulheres_de_areia_gloria_pires.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Marcos Frota e Denise Milfont](/novelas/img/mulheres_de_areia_marcos_frota_e_denise_milfont.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Glória Pires](/novelas/img/mulheres_de_areia_gloria_pires2.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Família Assunção](/novelas/img/mulheres_de_areia_raul_suzana_viviane_m.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Seu Donato e Tonho da Lua](/novelas/img/mulheres_de_areia_paulo_goulart_e_marcos_f.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Eloísa Mafalda e Sebastião Vasconcelos](/novelas/img/mulheres_de_areia_eloisa_mafalda_e.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}
