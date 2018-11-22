@@ -8,7 +8,7 @@ Rede Globo - 20h
 
 de 10 de julho de 1978 a 27 de janeiro de 1970
 
-![Dancin'Days](/novelas/img/dancin_days_sonia_danca.jpg)
+![Dancin'Days](/novelas/img/dancin_days_logo.jpg)
 
 Novela de Gilberto Braga
 
@@ -38,10 +38,21 @@ O começo não parecia promissor. Às vésperas da estréia, várias cenas tiver
 
 ### Fotos
 
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Sonia Braga](/novelas/img/dancin_days_sonia_danca.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Beatriz Segall e Antônio Fagundes](/novelas/img/dancin_days_b_segal_e_a_fagundes.jpg){:style="height: 139px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Família: Lauro Corona, Claudio Corrêa e Castro,Beatriz Segall e Antônio Fagundes](/novelas/img/dancin_days_familia.jpg){:style="height: 139px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Alberico Santos (Lago) e a ex-presidiária Júlia Matos (Sônia)](/novelas/img/dancin_days_mario_lago_sonia_braga.jpg){:style="height: 139px; float: left; margin-right: 7px; margin-top: 7px;"}
-![O casal Cacá (Fagundes) e Júlia (Sônia)](/novelas/img/dancin_days_s_braga_e_a_fagundes.jpg){:style="height: 139px; float: none; margin-right: 7px; margin-top: 7px;"}
+![Família: Lauro Corona, Claudio Corrêa e Castro,Beatriz Segall e Antônio Fagundes](/novelas/img/dancin_days_familia.jpg){:style="height: 139px; float: none; margin-right: 7px; margin-top: 7px;"}
 
 ### Diálogo
 
