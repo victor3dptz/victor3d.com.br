@@ -33,6 +33,12 @@ Georgina Góes | Izabel Filardis | André Gonçalves
 Camila Pitanga | Pedro Vasconcelos | Eduardo Felipe
 Patrick Oliveira | [Flávio Migliaccio](/novelas/flavio_migliaccio.html) | Norton Nascimento
 
+### Abertura
+
+<video poster="/novelas/img/a_proxima_vitima_abertura.jpg" id="player" playsinline controls>
+    <source src="http://srv.victor3d.com.br/novelas/a_proxima_vitima_1995.mp4" type="video/mp4">
+</video>
+
 ### Sinopse
 
 A Próxima Vítima conta a história de Ana *(Suzana Vieira)* que é a "outra" há vinte anos na vida de Marcelo *([José Wilker](/novelas/jose_wilker.html))*, e com quem tem três filhos. Além desses filhos, ele tem três mulheres: Francesca *(Tereza Rachel)* , Ana e a jovem Isabela *(Claúdia Ohana)*.
