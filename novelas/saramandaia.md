@@ -54,7 +54,6 @@ A população de Bole-Bole quer mudar o nome da cidade para Saramandaia. Mas exi
 ![Sônia Braga e Juca de Oliveira](/novelas/img/saramandaia_sonia_braga_e_juca_de_oliveira.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Juca de Oliveira](/novelas/img/saramandaia_juca_de_oliveira.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Sônia Braga](/novelas/img/saramandaia_sonia_braga2.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Ary Fontoura e Castro Gonzaga](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Wellington Botelho, Wilza Carla, Marilla Barbosa, Carlos Grgório, Francisco Dantas, Sônia Braga e Rafael de Carvalho](/novelas/img/saramandaia_wbotelho_wcarla_mbarbosa_cgregorio_fdantas_sbraga_rcarvalho.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Ary Fontoura, Ana Maria Magalhães e Carlos Gregório](/novelas/img/saramandaia_ary_fontoura_ana_maria_magalhaes_e_carlos_gregorio.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Yoná Magalhães, Jorge Gome e Pedro Paulo](/novelas/img/saramandaia_yona_magalhaes_jorge_gomes_e_pedro_paulo_rangel.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
