@@ -30,6 +30,12 @@ Roberto Pirillo | Reny de Oliveira | Apolo Correia
 Myriam Pérsia | Júlio César | Mário Cardoso
 Cristina Bittencourt | | 
 
+### Abertura
+
+<video poster="/novelas/img/escalada_abertura.png" id="player" playsinline controls>
+    <source src="http://srv.victor3d.com.br/novelas/escalada_1975.mp4" type="video/mp4">
+</video>
+
 ### Sinopse
 
 A vida de Antônio Dias *(Tarcísio Meira)*, nos momentos-chaves. Saindo de Minas Gerais, tenta uma escalada numa pequena cidade de São Paulo. Desperta paixões em duas mulheres: Cândida *(Suzana Vieira)*, com quem se casa, e Marina *(Renée de Vielmond)*, a quem sempre ama.
@@ -46,6 +52,10 @@ O encontro entre Antônio Dias e o governador do Estado Adhemar de Barros; sua c
 
 ### Fotos
 
+![Tarcísio Meira e Renée de Vielmond](/novelas/img/escalada_tarcisio_meira_e_renee_de_vielmond.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Suzana Vieira e Otávio Augusto](/novelas/img/escalada_susana_vieira_e_otavio_augusto.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Milton Moraes](/novelas/img/escalada_milton_moraes.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Renée de Vielmond](/novelas/img/escalada_renee_de_vielmond.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Tarcísio Meira em brilhante atuação](/novelas/img/escalada_dois_homens.jpg){:style="height: 143px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Maria Helena Dias e Leonardo Villar](/novelas/img/escalada_dias_e_leo_villar.jpg){:style="height: 143px; float: none; margin-right: 7px; margin-top: 7px;"}
 
