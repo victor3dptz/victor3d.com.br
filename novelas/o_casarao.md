@@ -32,6 +32,12 @@ Fernando Vilar | Moacyr Deriquem | Zilka Salaberry
 Heloísa Helena | Neuza Amaral | [Arlete Salles](/novelas/arlete_salles.html)
 Elizangela | Telma Elita | 
 
+### Abertura
+
+<video poster="/novelas/img/o_casarao_abertura.png" id="player" playsinline controls>
+    <source src="http://srv.victor3d.com.br/novelas/o_casarao_1976.mp4" type="video/mp4">
+</video>
+
 ### Sinopse
 
 Cinco gerações de uma família que se estabelece no norte de São Paulo na fase da corrida para as férteis terras do café. O casarão é o centro gerador de toda a história, desde a construção, em 1900, por Deodato Leme *([Oswaldo Loureiro](/novelas/oswaldo_loureiro.html))* à atualidade - 1976 -, onde mora sua neta Carolina *(Yara Cortes)*. Para se contar a saga familiar, três épocas foram enfocadas: 1900 a 1910, 1926 a 1936 e 1976.
@@ -54,6 +60,12 @@ A festa de noivado deste casal aconteceu durante um enorme banquete e,se cortou 
 
 ### Fotos
 
+![Gracindo Junior e Sandra Barsotti](/novelas/img/o_casarao_gracindo_junior_e_sandra_barsotti.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Dennis Carvalho e Lutero Luiz](/novelas/img/o_casarao_dennis_carvalho_e_lutero_luiz.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Yara Cortes](/novelas/img/o_casarao_yara_cortes.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Paulo Gracindo e Renata Sorrah](/novelas/img/o_casarao_paulo_gracindo_e_renata_sorrah.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Mário Lago](/novelas/img/o_casarao_mario_lago.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Edson França e Oswaldo Loureiro](/novelas/img/o_casarao_edson_franca_e_oswaldo_loureiro.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Armando Bogus e Renata Sorrah na terceira fase](/novelas/img/o_casarao_armando_bogus_e_e_sorrah.jpg){:style="height: 260px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Paulo José e Renata Sorrah](/novelas/img/o_casarao_paulo_jose_e_r_sorrah.jpg){:style="height: 260px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Sandra Barsotti na primeira fase](/novelas/img/o_casarao_sandra_barsotti.jpg){:style="height: 260px; float: left; margin-right: 7px; margin-top: 7px;"}
