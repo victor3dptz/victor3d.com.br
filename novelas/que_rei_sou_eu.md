@@ -8,7 +8,7 @@ Rede Globo - 19h
 
 13 de fevereiro a 16 de setembro de 1989 
 
-![Que Rei Sou Eu?](/novelas/img/que_rei_sou_eu_edson_e_giulia_gam.jpg)
+![Que Rei Sou Eu?](/novelas/img/que_rei_sou_eu_logo.jpg)
 
 Novela de Cassiano Gabus Mendes
 
@@ -29,6 +29,12 @@ Stênio Garcia | Ítala Nandi | Paulo César Grande
 Antônio Abujamra | Carlos Daniel | Marcos Breda
 Vera Holtz | Gianfrancesco Guarnieri | 
 
+### Abertura
+
+<video poster="/novelas/img/que_rei_sou_eu_abertura.png" id="player" playsinline controls>
+    <source src="http://srv.victor3d.com.br/novelas/que_rei_sou_eu_1989.mp4" type="video/mp4">
+</video>
+
 ### Sinopse
 
 1786, três anos antes da Revolução Francesa, uma trama de capa-e-espada exibe um filho bastardo, Jean Pierre *(Edson Celulari)*, legítimo herdeiro do trono de Avilan, um reino corroído pela corrupção de seus governantes e injustiças sociais. Na ausência do sucessor do trono, os conselheiros reais, que dominam a rainha Valentina *(Teresa Rachel)*, coroam o mendigo Pichot *(Tato Gabus Mendes)* como rei. A armação de Ravengar *(Antonio Abujamra)*, o bruxo do condado.
@@ -39,6 +45,20 @@ Para quem não viu apenas lê a sinopse, "Que Rei Sou Eu?" pode parecer um tradi
 
 ### Fotos
 
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![](/novelas/img/.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Que Rei Sou Eu?](/novelas/img/que_rei_sou_eu_edson_e_giulia_gam.jpg){:style="height: 194px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Ravengar e sua fiel assistente](/novelas/img/que_rei_sou_eu_abujanra.jpg){:style="height: 194px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Cláudia Abreu como a princesa de Avilan](/novelas/img/que_rei_sou_eu_claudia_abreu.jpg){:style="height: 194px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Uma ótima atuação de Daniel Filho e Marieta Severo](/novelas/img/que_rei_sou_eu_daniel_filho_e_m_severo.jpg){:style="height: 194px; float: left; margin-right: 7px; margin-top: 7px;"}
