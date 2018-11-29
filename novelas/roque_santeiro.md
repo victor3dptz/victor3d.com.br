@@ -55,6 +55,16 @@ Quase 10 anos depois de ser proibida pela censura, a novela vai ao ar, já com u
 
 ### Fotos
 
+![Regina Duarte e Lima Duarte](/novelas/img/roque_santeiro_regina_duarte_e_lima_duarte.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![José Wilker](/novelas/img/roque_santeiro_jose_wilker.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Paulo Gracindo e Lima Duarte](/novelas/img/roque_santeiro_paulo_gracindo_e_lima_duarte.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Ruy Rezende e Cláudia Raia](/novelas/img/roque_santeiro_rui_rezende_e_claudia_raia.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Cássia Kiss, Lucinha Lins e Eloísa Mafalda](/novelas/img/roque_santeiro_cassia_kiss_lucinha_lins_e_eloisa_mafalda.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Armando Bógus](/novelas/img/roque_santeiro_armando_bogus.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![João Carlos Barroso e Ary Fontoura](/novelas/img/roque_santeiro_joao_carlos_barroso_e_ary_fontoura.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Cláudio Cavalcanti e Lídia Brondi](/novelas/img/roque_santeiro_claudio_cavalcanti_e_lidia_brondi.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Rui Rezende](/novelas/img/roque_santeiro_rui_rezende.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Yoná Magalhães, Ísis de Oliveira e Claudia Raia](/novelas/img/roque_santeiro_yona_magalhaes_isis_de_oliveira_e_claudia_raia.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Lima Duarte](/novelas/img/roque_santeiro_l_duarte_r.jpg){:style="height: 160px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Yoná Magalhães e Fábio Jr](/novelas/img/roque_santeiro_fabio_jr_e_yona.jpg){:style="height: 160px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Cláudio Cavalcanti como Padre Albano e Lídia Brondi](/novelas/img/roque_santeiro_claudio_cavalc_e_lidia_b.jpg){:style="height: 160px; float: none; margin-right: 7px; margin-top: 7px;"}
