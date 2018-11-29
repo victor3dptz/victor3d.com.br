@@ -8,7 +8,7 @@ REDE GLOBO - 20h
 
 24 de Junho de 1985 a 21 de Fevereiro de 1986
 
-![Roque Santeiro](/novelas/img/roque_santeiro_l_duarte_r.jpg)
+![Roque Santeiro](/novelas/img/roque_santeiro_logo.jpg)
 
 Novela de Dias Gomes (escrito por Dias Gomes e Aguinaldo Silva)
 
@@ -37,6 +37,12 @@ Arnaud Rodrigues | Regina Dourado | Vanda Alves
 Wanda Kosmos | Lutero Luiz | Clara Farjado
 [Oswaldo Loureiro](/novelas/oswaldo_loureiro.html) | Tutty Masil | Ângela Tornatori
 
+### Abertura
+
+<video poster="/novelas/img/roque_santeiro_abertura.png" id="player" playsinline controls>
+    <source src="http://srv.victor3d.com.br/novelas/roque_santeiro_1985.mp4" type="video/mp4">
+</video>
+
 ### Sinopse
 
 O dia-a-dia em Asa Branca, cidade em qualquer parte do Brasil. Lá há dezessete anos, o coroinha Luís Roque Duarte *([José Wilker](/novelas/jose_wilker.html))* , conhecido como Roque Santeiro por sua habilidade em modelar santos, tombou morto ao defender a população das mãos do bando de Navalhada *([Oswaldo Loureiro](/novelas/oswaldo_loureiro.html))*, logo após seu misterioso casamento com a desconhecida Porcina *([Regina Duarte](/novelas/regina_duarte.html))*, uma balconista simplória e ignorante. Santificado pelo povo - que lhe atribuiu milagres -, tornou-se um mito e fez prosperar a cidade ao redor de sua história de heroísmo. Ainda, promoveu sua viúva a uma celebridade de Asa Branca.
@@ -49,6 +55,7 @@ Quase 10 anos depois de ser proibida pela censura, a novela vai ao ar, já com u
 
 ### Fotos
 
+![Lima Duarte](/novelas/img/roque_santeiro_l_duarte_r.jpg){:style="height: 160px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Yoná Magalhães e Fábio Jr](/novelas/img/roque_santeiro_fabio_jr_e_yona.jpg){:style="height: 160px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Cláudio Cavalcanti como Padre Albano e Lídia Brondi](/novelas/img/roque_santeiro_claudio_cavalc_e_lidia_b.jpg){:style="height: 160px; float: none; margin-right: 7px; margin-top: 7px;"}
 
