@@ -256,6 +256,7 @@ ZAZÁ | 1997 | 19h00
 [POR AMOR](/novelas/por_amor.html) | 1997 | 20h30
 CORPO DOURADO | 1998 | 19h00
 [TORRE DE BABEL](/novelas/torre_de_babel.html) | 1998 | 20h30
+[SUAVE VENENO](/novelas/suave_veneno.html) | 1999 | 20h30
 
 ### Rede Manchete
 
