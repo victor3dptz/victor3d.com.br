@@ -31,6 +31,12 @@ Diogo Vilela | Totia Meirelles | Guilherme Corrêa
 Nívea Maria | Heitor Martinez | Tácito Rocha
 Nuno Leal Maia | Samara Felippo | Luís Antônio Pillar
 
+### Abertura
+
+<video poster="/novelas/img/suave_veneno_abertura.png" id="player" playsinline controls>
+    <source src="http://srv.victor3d.com.br/novelas/suave_veneno_1999.mp4" type="video/mp4">
+</video>
+
 ### Fotos
 
 ![Vanessa Lóes, Luana Piovani e Letícia Spiller](/novelas/img/suave_veneno_vanessa_loes_luana_piovani_e_leticia_spiller.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
