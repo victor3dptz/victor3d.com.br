@@ -59,7 +59,7 @@ Suave Veneno terá também doses de humor reveladas em personagens como Uálber 
 
 Os outros personagens que compõe a novela estão divididos em dois núcleos. O primeiro gira em torno de Waldomiro e inclui os que moram num condomínio construído por ele na Barra da Tijuca, a Vila Marmoreal. No outro grupo, em Laranjeiras, vivem seus funcionários e amigos, num prédio também construído por ele e batizado de Bege-Bahia.
 
-![Logo](/novelas/img/suave_veneno_avi.gif){:style="float: right; margin-right: 7px; margin-top: 7px;"}
+![Logo](/novelas/img/suave_veneno_ani.gif){:style="float: right; margin-right: 7px; margin-top: 7px;"}
 
 ### Produção
 
