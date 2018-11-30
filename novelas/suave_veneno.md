@@ -75,6 +75,90 @@ Aguinaldo Silva é o autor de Roque Santeiro, Pedra Sobre Pedra e A Indomada, en
 
 O universo da novela é concentrado - são apenas 29 personagens - o que beneficia a trama principal que envolve Waldomiro, Eleonor, Maria Inês e Clarice. Em todos os núcleos e histórias paralelas a ação é inesperada e cada personagem receberá um tratamento específico. Há pitadas de realismo fantástico nas idas e vindas de uma "Dama da Noite" que ataca os homens; no amigo invisível de Rafa, neto de Waldomiro, que, embora ninguém acredite, lhe dá conselhos; e nos poderes de Uálber, personagem que também mostra elementos de comédia. Enfim, humor, fantasia, entretenimento e drama. Esses são os ingredientes que o autor utiliza para escrever a novela. Entre todos os gêneros e protagonistas, é na busca de uma linha comum ao grande público que Aguinaldo Silva cria sua ficção.
 
+### Perfil dos Personagens
+
+**Waldomiro Cerqueira** (José Wilker) - Pernambucano de origem humilde, migrou para o Rio há 30 anos e fez fortuna comercializando mármores. Abatido com a insistência das filhas em assumir o controle de sua empresa, ganha novo ânimo quando conhece uma moça com amnésia.
+
+**Inês** (Glória Pires) - Diz ter perdido a memória e conhece Waldomiro por acaso. Sem ter para onde ir, aceita morar na casa dele. Sua única amiga é Clarice (Patrícia França).
+
+**Clarice** (Patrícia França) - Advogada iniciante, se interessa pela história de Inês. Tem um caso com um dos clientes, que está preso, e divide o escritório com Cláudio (Luiz Antônio Pillar).
+
+**Regina** (Letícia Spiller) - Filha mais velha de Waldomiro, quer tomar o lugar do pai na empresa da família.
+
+**Figueira** (Kadu Moliterno) - Marido de Regina, é totalmente passivo. Trai a mulher com Carlota (Betty Faria).
+
+**Patti** (Cecília Dassi) - Filha de Regina e Figueira. Arrogante e precoce, está sempre tentando imitar a mãe.
+
+**Rafa** (Herval Silveira) - Irmão de Patti e xodó de Waldomiro. Tem um amigo secreto, que todos julgam ser apenas fruto de sua imaginação.
+
+**Maria Antônia Cerqueira** (Vanessa Lóes) - A filha do meio de Waldomiro Eleonor. É hipocondríaca, apesar de ser saudável. É alheia aos negócios da família e, nas decisões da empresa, sempre vota de acordo com o marido, por quem é apaixonada.
+
+**Augusto Ivan da Silva** (Tarcísio Filho) - Marido de Maria Antônia. Rapaz de família humilde, deu o golpe do baú mas acabou se apaixonando de verdade pela mulher. Na empresa, não mede esforços para conseguir seus intentos. Ama ostentar riqueza, mas esbarra sempre na oposição de Waldomiro.
+
+**Márcia Eduarda Berganti de Cerqueira** (Luana Piovani) - A caçula de Waldomiro e Eleonor. É diferente das irmãs: não é frágil como Maria Antônia, nem ambiciosa como Maria Regina. Está a espera de um grande amor. Romântica, conhece Eliseu e se apaixona, sem perceber que a mãe também se relaciona com o rapaz.
+
+**Alceste Berganti** (Sergio Viotti) - Tio de Eleonor, um solteirão que foi namorador nos áureos tempos. Seus conselhos são sempre bem recebidos por Waldomiro, embora o resto da família não tenha muita paciência com ele. Também mora no condomínio de Waldomiro e todos acham que sobrevive apenas de uma pensão.
+
+**Emiliana Loureiro de Barros** (Nívea Maria) - Naná é a grande amiga de Eleonor. Está sempre criticando Waldomiro, o que parece ser uma forma de esconder um outro tipo de sentimento. Elegante e refinada, não tem dinheiro, mas nunca perde a pose.
+
+**Eliseu** (Rodrigo Santoro) - Tímido, doce, sonhador e um tanto ingênuo, é um artista plástico que veio ao Rio para vencer na vida, mas não tem sorte. Depois de umas bebidas a mais, decide que não pode voltar para sua terra sem ter conseguido o sucesso e tenta se atirar de uma ponte. Conhece, então, Eleonor, a mulher que vai lhe dar apoio e incentivo.
+
+**Fortunato Queiroz** (Nelson Xavier) - Companheiro e braço direito de Waldomiro. É síndico do edifício Bege-Bahia e é sócio minoritário das empresas. Casado há mais de 30 anos, ainda é apaixonado pela mulher e sua volúpia o torna alvo de muitas situações engraçadas.
+
+**Geninha Queiroz** (Ana Rosa) - Esposa de Fortunato, tranqüila e, uma espécie de conselheira dos moradores do prédio. Freqüenta a casa de Waldomiro mas nunca se sente muito à vontade, exceto com Márcia, de quem se torna amiga e confidente. É considerada o ponto de equilíbrio da novela.
+
+**Adriana Queiroz** (Daniela De Faria) - Filha adotiva de Fortunato e Geninha, que ainda não conhece suas origens. Trabalha na Marmoreal como secretária de Waldomiro e se revolta contra Márcia, por ciúmes da relação dela com sua mãe.
+
+**Uálber Cañedo** (Diogo Vilela) - É o guru e vidente da história, um homem com poderes paranormais que ainda não controla muito bem e que ninguém consegue provar, mas em que todos acreditam. É honesto e sonha montar um serviço telefônico para dar consultas. Oscila entre a vigarice e o amor que tem por sua família. Apesar de sua mãe viver arranjando namoradas para ele, Uálber não demonstra interessa por nenhuma.
+
+**Edilberto Ferreira** (Luis Carlos Tourinho) - O ajudante de Uálber, é também seu secretário, confidente, motorista - enfim, um faz-tudo. Adora freqüentar a vida noturna de certos bares no Rio de Janeiro.
+
+**Maria do Carmo** (Eva Todor) - Mãe de Uálber, adorável, cuida também dos sobrinhos-netos Augusto Ivan, Léo e Marina. É tão boa que não enxerga a real face das pessoas - as opções sexuais do filho, o mau-caratismo de Ivan, os métodos de Marina para fazer sucesso e até mesmo as escapulidas noturnas de Carlota.
+
+**Leonardo José** (Matheus Rocha) - Primo de Uálber e irmão de Ivan, ocupa um cargo sem muita função na Marmoreal, conseguido por pressão do irmão, a quem tenta imitar. Seu objetivo é casar-se com Márcia, filha de Waldomiro, mas seus projetos mudam quando conhece Marina.
+
+**Marina da Silva Coelho** (Deborah Secco) - Top model do ano, garota do Tchan, coelhinha de calendário, já tentou ser tudo isso mas sem sucesso. Seu objetivo é arrumar um marido rico. Bonita, sensual, vive na praia se exibindo em busca da presa perfeita. Ao conhecer Renildo, sua vida também passa por transformações.
+
+**Renildo Soares** (Rodrigo Faro) - Filho do porteiro do Edifício Bege-Bahia, consegue realizar o sonho de ser jogador de futebol. Contratado para jogar no exterior, seu destino não será recheado de glórias ao descobrir que tem uma doença degenerativa.
+
+**Clóvis Soares** (Elias Andreatto) - Porteiro do edifício, pai de Renildo, é também de origem nordestina. Tem uma relação com Dona Maria do Carmo, que não passa de amizade.
+
+**Carlota Valdés** (Betty Faria) - Viúva de militar, inquilina do Bege-Bahia, recatada durante o dia, mas à noite muda de roupa e de personalidade, quando sai sem destino conhecido. Disfarça quando perguntada sobre sua vida. É fruto da curiosidade geral.
+
+**Felisberto Morel** (Nuno Leal Maia) - O Gato, como é mais conhecido, dono de um bar perto do Bege-Bahia, por onde passam vários personagens da história, sendo um ponto de encontro onde vários caminhos se cruzam. É apaixonado por Carlota.
+
+**Claudionor** (Heitor Martinez) - Balconista do Bar do Gato, é forte, rústico, excessivo e objeto de desejo das empregadas do bairro. Preconceituoso, não gosta de Uálber, com quem trava um relacionamento ambíguo.
+
+**Eliete Soares** (Nívea Stelmann) - Uma das empregadas da casa de Waldomiro, é namorada de Claudionor. Adora samba e pagode. É sensual e está sempre sorridente - menos para Uálber, com quem vai ter ciúmes por causa do namorado.
+
+**Adelmo de Alencar** (Angelo Antônio) - Está preso quando a história começa e se relaciona com a advogada Clarice.
+
+**Claudio Moreira** (Luiz Antônio Pillar) - Advogado amigo de Clarice, é criminalista e se apaixona pela colega. Irá ajudá-la a tirar Adelmo da cadeia, mas com o tempo também vai se interessar em descobrir os segredos da história.
+
+**Fausto** (Jairo Matos) - empresário paulista;
+
+**Josué** (Cassiano Carneiro) - ajudante do Bar do Gato;
+
+**Brother** (Leonardo Miranda) - boy da Marmoreal;
+
+**Lucilene** (Mariá da Penha) - empregada de Maria Regina;
+
+**Wanda** (Nica Bonfim) - empregada de Maria Antônia;
+
+**Zezé** (Ilva Niño) - empregada de Waldomiro;
+
+**Claraíde** (Emilia Rei) - empregada de Eleonor; Heitor (Guilherme Correia) - copeiro de Waldomiro;
+
+**Waldecyr** (Giulio Lopes) - motorista da Eleonor;
+
+*Alfredo* (Joel Silva) - motorista de Waldomiro;
+
+*Gladys* (Angela Rebello) - recepcionista da Marmoreal
+
+**Dr. Faria** (Tacito Rocha) - advogado de Waldomiro;
+
+**Empregada de Fortunato** (Francely Freitas); Italiano (Tom Curti); Presidente da Associação Comercial (Roberto Frota); Enfermeira com sotaque nordestino (Marcélia Cartaxo); Dr. Joffily (Jardel Melo); Dr Fernando (Tadeu Di Pietro).
+
 ### Fotos
 
 ![Vanessa Lóes, Luana Piovani e Letícia Spiller](/novelas/img/suave_veneno_vanessa_loes_luana_piovani_e_leticia_spiller.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
