@@ -8,7 +8,7 @@ Rede Globo - 20h30
 
 de 18 de janeiro a 17 de setembro de 1999
 
-![Novela](address)
+![Suave Veneno](/novelas/img/suave_veneno_logo.jpg)
 
 Novela de Aguinaldo Silva
 
