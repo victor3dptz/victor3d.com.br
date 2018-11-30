@@ -53,6 +53,16 @@ Suave Veneno terá também doses de humor reveladas em personagens como Uálber 
 
 Os outros personagens que compõe a novela estão divididos em dois núcleos. O primeiro gira em torno de Waldomiro e inclui os que moram num condomínio construído por ele na Barra da Tijuca, a Vila Marmoreal. No outro grupo, em Laranjeiras, vivem seus funcionários e amigos, num prédio também construído por ele e batizado de Bege-Bahia.
 
+### Produção
+
+O mundo da extração do mármore é o principal destaque da produção da novela Suave Veneno. A produtora de arte Ana Maria de Magalhães pesquisou as características do mineral no Espírito Santo e na Bahia. No primeiro capítulo, o personagem Waldomiro visita sua jazida na Bahia, onde é produzido o granito azul-macaúba, um dos mais valorizados do mercado. As cenas foram gravadas numa pedreira verdadeira. Este valioso mármore também foi utilizado na criação do logotipo da empresa de Waldomiro. O mármore está sempre presente na produção da novela, como por exemplo, em objetos de cena e na composição de cenários.
+
+Outro destaque importante na produção da novela são os desenhos do personagem Eliseu. Otávio Avancini - escolhido entre 80 artistas - é o responsável pelos desenhos e painéis do personagem.
+
+Mas as pesquisas da produção não param por aí: o guru Uálber ganha adereços místicos, frutos de uma mistura sincrética com pedras, pirâmides, cristais e búzios. Enquanto o figurino da misteriosa Carlota é inspirado pelo universo do cineasta espanhol Pedro Almodóvar, com oncinhas, capas e outros fetiches.
+
+A novela tem cenários construídos nos estúdios do Projac: os interiores das casas do condomínio de Waldomiro, os escritórios da empresa Marmoreal e os apartamentos do edifício Bege-Bahia. Existem ainda outros cenários, como o Bar do Gato, produzidos na cidade cenográfica, pelo diretor de arte Mário Monteiro. As cenas externas do local onde Waldomiro mora, a Vila Marmoreal, são gravadas em um condomínio da Barra da Tijuca, enquanto para o edifício Bege-Bahia é usado um prédio do bairro de Laranjeiras, no Rio de Janeiro.
+
 ### Fotos
 
 ![Vanessa Lóes, Luana Piovani e Letícia Spiller](/novelas/img/suave_veneno_vanessa_loes_luana_piovani_e_leticia_spiller.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
