@@ -43,12 +43,6 @@ Um homem à margem do mundo que criou. Este é o ponto de partida da trama de Su
 
 Segundo o autor, Aguinaldo Silva, o clássico Rei Lear, do dramaturgo inglês William Shakespeare serviu como inspiração para a novela, e principalmente, para o personagem central, Waldomiro. Mistério, suspense, romance e humor: são os ingredientes usados para destilar um Suave Veneno.
 
-### Sinopse
-
-Uma história de suspense e mistério, com várias viradas importantes, em que o segredo é fundamental". Essa é a síntese do autor Aguinaldo Silva para a Nova Novela das Oito, que está em fase de pré-produção, e vai substituir Torre de Babel. A previsão é que as gravações comecem no início de novembro. No momento, apenas três nomes estão confirmados no elenco, José Wilker, Irene Ravache e Glória Pires, que fazem o trio de protagonistas. "Não posso dizer muito sobre os personagens porque a premissa deles também é importante para as tramas", completa Aguinaldo, deixando escapar, porém, que a novela vai se passar no Rio de Janeiro, é urbana e contemporânea. "Estou voltando aos temas urbanos que abandonei desde Roque Santeiro, em 84, e Vale Tudo, que escrevi com o Gilberto Braga", diz.
-
-O diretor geral de criação Daniel Filho irá comandar os primeiros trinta capítulos junto com o diretor de Núcleo Ricardo Waddington. Ainda participam da direção Marcos Schechtman e André Alexandre Avancini. A equipe de roteiristas que vai acompanhar Aguinaldo Silva será formada por Angela Carneiro, Maria Helena Nascimento, Filipe Miguez e Fernando Rebello. A cenografia da novela está a cargo de Nei Martins, a produção de arte é de Ana Maria Magalhães,a gerência de produção de Verônica Esteves, a direção de produção de Ítalo Granato e a novela pertence ao Núcleo Ricardo Waddington.
-
 ### Trama
 
 Para o ator José Wilker, a solidão de Waldomiro é uma das características do personagem que mais o atraem. "Na primeira oportunidade, ele se joga por inteiro para preencher o vazio em sua alma", avalia. Outros traços pessoais de Waldomiro, que atraíram o ator, são que apesar de todo sua fortuna, ele é um homem simples e generoso.
