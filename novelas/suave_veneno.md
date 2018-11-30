@@ -4,9 +4,32 @@ title: Suave Veneno
 permalink: /novelas/suave_veneno.html
 ---
 
+Rede Globo - 20h30
+
+de 18 de janeiro a 17 de setembro de 1999
+
 ![Novela](address)
 
+Novela de Aguinaldo Silva
+
+Direção: Daniel Filho, Ricardo Waddington, Marcos Schechtman
+
 ### Elenco
+
+José Wilker | Vanessa Lóes | Matheus Rocha
+Glória Pires | Deborah Secco | Daniela Faria
+Irene Ravache | Sérgio Viotti | Cecília Dassi
+Letícia Spiller | Jorge Dória | Vinícius de Oliveira
+Ângelo Antônio | Eva Todor | Herval Silveira
+Patrícia França | Nelson Xavier | Ivan Cândido
+Tarcísio Filho | Ana Rosa | Ilva Niño
+Kadu Moliterno | Fúlvio Stefanini | Léa Garcia
+Rodrigo Santoro | Rodrigo Faro | Elias Andreato
+Luana Piovani | Nívea Stelmann | Tuca Andrada
+Betty Faria | Luiz Carlos Tourinho | Mariah da Penha
+Diogo Vilela | Totia Meirelles | Guilherme Corrêa
+Nívea Maria | Heitor Martinez | Tácito Rocha
+Nuno Leal Maia | Samara Felippo | Luís Antônio Pillar
 
 ### Fotos
 
