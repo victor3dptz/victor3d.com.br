@@ -38,3 +38,4 @@ Mico Preto | Globo | 1990 | Marcílio Moraes, Leonor Bassères e Euclydes Marinh
 Fera Ferida | Globo | 1993 | Aguinaldo Silva, Ana Maria Moretzsohn e Ricardo Linhares
 [A Próxima Vítima](/novelas/a_proxima_vitima.html) | Globo | 1995 | Sílvio de Abreu
 Anjo de Mim | Globo | 1996/97 | Walter Negrão
+[Suave Veneno](/novelas/suave_veneno.html) | Globo | 1999 | Aguinaldo Silva
