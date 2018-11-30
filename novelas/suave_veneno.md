@@ -59,6 +59,8 @@ Suave Veneno terá também doses de humor reveladas em personagens como Uálber 
 
 Os outros personagens que compõe a novela estão divididos em dois núcleos. O primeiro gira em torno de Waldomiro e inclui os que moram num condomínio construído por ele na Barra da Tijuca, a Vila Marmoreal. No outro grupo, em Laranjeiras, vivem seus funcionários e amigos, num prédio também construído por ele e batizado de Bege-Bahia.
 
+![Logo](/novelas/img/suave_veneno_avi.gif){:style="float: right; margin-right: 7px; margin-top: 7px;"}
+
 ### Produção
 
 O mundo da extração do mármore é o principal destaque da produção da novela Suave Veneno. A produtora de arte Ana Maria de Magalhães pesquisou as características do mineral no Espírito Santo e na Bahia. No primeiro capítulo, o personagem Waldomiro visita sua jazida na Bahia, onde é produzido o granito azul-macaúba, um dos mais valorizados do mercado. As cenas foram gravadas numa pedreira verdadeira. Este valioso mármore também foi utilizado na criação do logotipo da empresa de Waldomiro. O mármore está sempre presente na produção da novela, como por exemplo, em objetos de cena e na composição de cenários.
