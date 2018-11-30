@@ -16,8 +16,8 @@ Direção: Daniel Filho, Ricardo Waddington, Marcos Schechtman
 
 ### Elenco
 
-José Wilker | Vanessa Lóes | Matheus Rocha
-Glória Pires | Deborah Secco | Daniela Faria
+[José Wilker](/novelas/jose_wilker.html) | Vanessa Lóes | Matheus Rocha
+[Glória Pires](/novelas/gloria_pires.html) | Deborah Secco | Daniela Faria
 Irene Ravache | Sérgio Viotti | Cecília Dassi
 Letícia Spiller | Jorge Dória | Vinícius de Oliveira
 Ângelo Antônio | Eva Todor | Herval Silveira
