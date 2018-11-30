@@ -59,8 +59,6 @@ Suave Veneno terá também doses de humor reveladas em personagens como Uálber 
 
 Os outros personagens que compõe a novela estão divididos em dois núcleos. O primeiro gira em torno de Waldomiro e inclui os que moram num condomínio construído por ele na Barra da Tijuca, a Vila Marmoreal. No outro grupo, em Laranjeiras, vivem seus funcionários e amigos, num prédio também construído por ele e batizado de Bege-Bahia.
 
-![Logo](/novelas/img/suave_veneno_ani.gif){:style="float: right; margin-right: 7px; margin-top: 7px;"}
-
 ### Produção
 
 O mundo da extração do mármore é o principal destaque da produção da novela Suave Veneno. A produtora de arte Ana Maria de Magalhães pesquisou as características do mineral no Espírito Santo e na Bahia. No primeiro capítulo, o personagem Waldomiro visita sua jazida na Bahia, onde é produzido o granito azul-macaúba, um dos mais valorizados do mercado. As cenas foram gravadas numa pedreira verdadeira. Este valioso mármore também foi utilizado na criação do logotipo da empresa de Waldomiro. O mármore está sempre presente na produção da novela, como por exemplo, em objetos de cena e na composição de cenários.
@@ -76,6 +74,8 @@ A novela tem cenários construídos nos estúdios do Projac: os interiores das c
 Aguinaldo Silva é o autor de Roque Santeiro, Pedra Sobre Pedra e A Indomada, entre outras. São novelas com temáticas rurais e uma dose de realismo fantástico que consagraram seu estilo. Agora, ao completar 20 anos de televisão, o autor volta ao gênero do início da carreira: a história urbana. Ex-repórter policial, autor de livros, peças e roteiros de cinema, Aguinaldo Silva estreou na Rede Globo escrevendo o seriado Plantão de Polícia, onde o personagem principal também se chamava Waldomiro. Mas segundo o autor, é apenas pura coincidência, pois Suave Veneno não é uma história policial. A novela adota uma temática atemporal, onde suspense e mistério estarão em evidência. A idéia de Aguinaldo Silva é que os segredos dos personagens darão margem a surpreendentes viradas a cada 20, 30 capítulos, trazendo novas perguntas à tona. "O início da história, inspirado em Shakespeare, tem o propósito de refletir sobre a sociedade de hoje, onde as pessoas são substituídas mais cedo em suas vidas. Waldomiro é mais novo do que o Rei Lear, mas ambos têm de enfrentar dramas semelhantes", analisa Aguinaldo Silva.
 
 O universo da novela é concentrado - são apenas 29 personagens - o que beneficia a trama principal que envolve Waldomiro, Eleonor, Maria Inês e Clarice. Em todos os núcleos e histórias paralelas a ação é inesperada e cada personagem receberá um tratamento específico. Há pitadas de realismo fantástico nas idas e vindas de uma "Dama da Noite" que ataca os homens; no amigo invisível de Rafa, neto de Waldomiro, que, embora ninguém acredite, lhe dá conselhos; e nos poderes de Uálber, personagem que também mostra elementos de comédia. Enfim, humor, fantasia, entretenimento e drama. Esses são os ingredientes que o autor utiliza para escrever a novela. Entre todos os gêneros e protagonistas, é na busca de uma linha comum ao grande público que Aguinaldo Silva cria sua ficção.
+
+![Logo](/novelas/img/suave_veneno_ani.gif){:style="float: right; margin-right: 7px; margin-top: 7px;"}
 
 ### Perfil dos Personagens
 
