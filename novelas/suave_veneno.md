@@ -75,6 +75,14 @@ Aguinaldo Silva é o autor de Roque Santeiro, Pedra Sobre Pedra e A Indomada, en
 
 O universo da novela é concentrado - são apenas 29 personagens - o que beneficia a trama principal que envolve Waldomiro, Eleonor, Maria Inês e Clarice. Em todos os núcleos e histórias paralelas a ação é inesperada e cada personagem receberá um tratamento específico. Há pitadas de realismo fantástico nas idas e vindas de uma "Dama da Noite" que ataca os homens; no amigo invisível de Rafa, neto de Waldomiro, que, embora ninguém acredite, lhe dá conselhos; e nos poderes de Uálber, personagem que também mostra elementos de comédia. Enfim, humor, fantasia, entretenimento e drama. Esses são os ingredientes que o autor utiliza para escrever a novela. Entre todos os gêneros e protagonistas, é na busca de uma linha comum ao grande público que Aguinaldo Silva cria sua ficção.
 
+### Fotos
+
+![Vanessa Lóes, Luana Piovani e Letícia Spiller](/novelas/img/suave_veneno_vanessa_loes_luana_piovani_e_leticia_spiller.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Diogo Vilela e Luiz Carlos Tourinho](/novelas/img/suave_veneno_diogo_vilela_e_luiz_carlos_tourinho.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![José Wilker](/novelas/img/suave_veneno_jose_wilker.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Luana Piovani e Rodrigo Santoro](/novelas/img/suave_veneno_luana_piovani_e_rodrigo_santoro.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Patrícia França e Glória Pires](/novelas/img/suave_veneno_patricia_franca_e_gloria_pires.jpg){:style="height: 250px; float: none; margin-right: 7px; margin-top: 7px;"}
+
 ### Resumo dos Capítulos
 
 **CAPÍTULO 1**: Waldomiro vê um pivete assaltando Maria Inês, que desaparece. Adelmo se encontra com Clarice na prisão. Maria Regina assina um novo contrato com os fornecedores italianos. Waldomiro volta da viagem à pedreira e briga com as filhas, que querem assumir a direção da empresa. Inês entra no táxi de Waldomiro e os dois sofrem um acidente. Na festa que homenageia Waldomiro como empresário do ano, Clarice acusa-o pelo acidente com Inês. Eleonor vê Eliseu tentar o suicídio. Waldomiro vai ao hospital, mas Inês não lembra de nada.
@@ -195,11 +203,3 @@ O universo da novela é concentrado - são apenas 29 personagens - o que benefic
 
 **CAPÍTULO 209 - ÚLTIMO CAPÍTULO**: Adelmo pede um tempo para encontrá-la, pois precisa buscar Júnior no colégio. Em vez disso, vai até a casa de Clarice com Lavínia e Uálber. Regina descobre que foi enganada e vai também até lá com uma arma carregada na bolsa. Lavínia e Adelmo encontram os diamantes; na saída Regina atira e acerta o amante. Enlouquecida, coloca os dois no carro e foge. A polícia faz um cerco e, no meio da confusão, Lavínia foge. Regina é internada numa clínica psiquiátrica. Waldomiro recebe as suas pedras de volta e se reconcilia para sempre com a amada. Nasce o filho dos dois e Júnior é convidado para padrinho. Eleonor embarca num navio e conhece o verdadeiro Marcelo Barone. Na casa de Maria do Carmo, a comemoração é familiar. Carlota Valdés volta a atuar. Eliseu é solto e Márcia está esperando por ele. Waldomiro e Lavínia vivem felizes para sempre.
  
-### Fotos
-
-![Vanessa Lóes, Luana Piovani e Letícia Spiller](/novelas/img/suave_veneno_vanessa_loes_luana_piovani_e_leticia_spiller.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Diogo Vilela e Luiz Carlos Tourinho](/novelas/img/suave_veneno_diogo_vilela_e_luiz_carlos_tourinho.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![José Wilker](/novelas/img/suave_veneno_jose_wilker.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Luana Piovani e Rodrigo Santoro](/novelas/img/suave_veneno_luana_piovani_e_rodrigo_santoro.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Patrícia França e Glória Pires](/novelas/img/suave_veneno_patricia_franca_e_gloria_pires.jpg){:style="height: 250px; float: none; margin-right: 7px; margin-top: 7px;"}
-
