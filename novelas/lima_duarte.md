@@ -4,7 +4,7 @@ title: Lima Duarte
 permalink: /novelas/lima_duarte.html
 ---
 
-![Lima Duarte](/novelas/img/roque_santeiro_l_duarte_r.jpg){:style="display:block; margin-left: auto; margin-right: auto;"} 
+![Lima Duarte](/novelas/img/lima_duarte.jpg)
 
 A trajetória de Lima Duarte é uma das mais coerentes de todo o meio artístico. Em exatos 50 anos de carreira ele atrelou-se, sempre ao mesmo projeto: interpretar o homem brasileiro. A busca desta identidade está em todos os seus personagens. De Zeca Diabo a Salviano Lisboa. De Sargento Getúlio a Sinhozinho Malta. Aos 66 anos de idade, Lima Duarte (aliás Ariclenes Martins, seu nome de batismo) é um dos orgulhos da nossa televisão.
 

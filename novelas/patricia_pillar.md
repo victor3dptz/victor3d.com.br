@@ -4,7 +4,7 @@ title: Patrícia Pillar
 permalink: /novelas/patricia_pillar.html
 ---
 
-![Patrícia Pillar](/novelas/img/patricia_pillar.jpg){:style="display:block; margin-left: auto; margin-right: auto;"}
+![Patrícia Pillar](/novelas/img/patricia_pillar2.jpg)
 
 ### Trabalhos realizados em novelas
 

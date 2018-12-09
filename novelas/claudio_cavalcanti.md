@@ -4,7 +4,8 @@ title: Cláudio Cavalcanti
 permalink: /novelas/claudio_cavalcanti.html
 ---
 
-![claudio cavalcanti](/novelas/img/roque_santeiro_claudio_cavalc_e_lidia_b.jpg){:style="display:block; margin-left: auto; margin-right: auto;"}
+![Claudio Cavalcanti](/novelas/img/claudio_cavalcanti.jpg)
+
 Logo após ter terminado o curso científico, o carioca Cláudio Cavalcanti estreou no teatro e na televisão. Corria o ano de 56 e, apartir daí, o jovem ator não parou mais. E tornou-se ultra-eclético: escreveu textos, roteiros, foi dublador, tradutor, fez cinema e produziu teatro. Sem jamais abandonar a tevê. Hoje, aos 51 anos contempla os seus sucessos do passado como o padre Albano em Roque Santeiro ou um galã na novela **Véu de Noiva**.
 
 ### Trabalhos realizados em novelas

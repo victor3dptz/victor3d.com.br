@@ -4,7 +4,7 @@ title: Francisco Cuoco
 permalink: /novelas/francisco_cuoco.html
 ---
 
-![Francisco Cuoco](/novelas/img/redencao_couco_e.jpg){:style="display:block; margin-left: auto; margin-right: auto;"}
+![Francisco Cuoco](/novelas/img/francisco_cuoco.jpg)
 
 Só por acaso aquele jovem introvertido do Brás virou ator. Dividido entre o trabalho de feirante e o desejo de ser advogado Francisco Cuoco mudou a própria história após assistir a um exame da Escola de Arte Dramática de São Paulo. Venceu a timidez, foi à luta e, hoje coleciona mais de duas dezenas de personagens, apenas em novelas.
 

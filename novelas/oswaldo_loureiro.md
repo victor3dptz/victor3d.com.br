@@ -4,6 +4,8 @@ title: Oswaldo Loureiro
 permalink: /novelas/oswaldo_loureiro.html
 ---
 
+![Oswaldo Loureiro](/novelas/img/oswaldo_loureiro.jpg)
+
 ### Trabalhos realizados em novelas
 
 Oswaldo Loureiro | emissora | ano | autor(a)(es)

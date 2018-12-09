@@ -4,7 +4,7 @@ title: Glória Menezes
 permalink: /novelas/gloria_menezes.html
 ---
 
-![gloria menezes](/novelas/img/gloria_menezes.jpg){:style="display:block; margin-left: auto; margin-right: auto;"}
+![Gloria Menezes](/novelas/img/gloria_menezes2.jpg)
 
 Na primeira cena da primeira novela produzida no país (**2-5499 Ocupado**, TV Excelsior/1963), ela já aparecia como uma grande estrela, ao lado de Tarcísio Meira, com quem formaria o mais famoso casal da nossa TV, na ficção e na vida real.
 

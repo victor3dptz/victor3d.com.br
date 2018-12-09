@@ -4,7 +4,7 @@ title: Luiz Gustavo
 permalink: /novelas/luiz_gustavo.html
 ---
 
-![Luiz Gustavo](/novelas/img/beto_rockfeller_beto_h2.jpg){:style="display:block; margin-left: auto; margin-right: auto;"}
+![Luiz Gustavo](/novelas/img/luiz_gustavo.jpg)
 
 ### Trabalhos realizados em novelas
 

@@ -4,7 +4,7 @@ title: Regina Duarte
 permalink: /novelas/regina_duarte.html
 ---
 
-![Regina Duarte](/novelas/img/regina_duarte.jpg){:style="display:block; margin-left: auto; margin-right: auto;"} 
+![Regina Duarte](/novelas/img/regina_duarte2.jpg)
 
 Regina Blois Duarte já possui 33 anos de carreira. Em 1965 ela já fazia sucesso na TV Excelsior com a novela **A Deusa Vencida**.
 
