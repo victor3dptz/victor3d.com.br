@@ -16,6 +16,21 @@ Direção: Denise Saraceni, Carlos Manga
 
 ### Elenco
 
+[Glória Pires](/novelas/gloria_pires.html) | Beatriz Segall | Ana Beatriz Nogueira
+Kadu Moliterno | Ariclê Perez | Thelma Reston
+Alessandra Negrini | Gabriel Braga Nunes | Licurgo Spínola
+Mauro Mendonça | Raul Gazolla | Ivone Hoffmann
+Leonardo Brício | Mila Moreira | Júlio Braga
+Lavínia Vlasak | Jackson Antunes | Ada Chaseliov
+Maria Padilha | Samara Felippo | Klara Homsani
+Daniel Dantas | Bel Kutner | Bruno Padilha
+Regina Dourado | Luciano Szafir | Carlos Kroeber
+Cláudio Correia e Castro | Emílio Orciollo Netto | Marcela Raffea
+Márcio Garcia | Léa Garcia | Sérgio Mamberti
+Taís Araújo | Átila Iório | Otávio Müller
+Lília Cabral | Sérgio Viotti | Bruno Guimarães
+Luiza Brunet | Luís Salém | Tiago Guimarães
+
 ### Fotos
 
 ![1](address){:style="height: 190px; float: left; margin-right: 7px; margin-top: 7px;"}
