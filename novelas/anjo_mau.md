@@ -31,6 +31,12 @@ Taís Araújo | Átila Iório | Otávio Müller
 Lília Cabral | Sérgio Viotti | Bruno Guimarães
 Luiza Brunet | Luís Salém | Tiago Guimarães
 
+### Abertura
+
+<video poster="/novelas/img/anjo_mau_abertura.png" id="player" playsinline controls>
+    <source src="http://srv.victor3d.com.br/novelas/anjo_mau_1997.mp4" type="video/mp4">
+</video>
+
 ### Fotos
 
 ![1](address){:style="height: 190px; float: left; margin-right: 7px; margin-top: 7px;"}
