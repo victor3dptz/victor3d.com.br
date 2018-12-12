@@ -31,5 +31,5 @@ Mico Preto | Globo | 1990 | Marcílio Moraes, Leonor Bassères e Euclydes Marinh
 O Dono do Mundo | Globo | 1991/92 | Gilberto Braga, Leonor Bassères, Ângela Carneiro e Ricardo Linhares
 [Mulheres de Areia](/novelas/mulheres_de_areia.html) | Globo | 1993 | Ivani Ribeiro
 [O Rei do Gado](/novelas/o_rei_do_gado.html) | Globo | 1996/97 | Benedito Ruy Barbosa
-Anjo Mau | Globo | 1997 | Maria Adelaide Amaral
+[Anjo Mau](/novelas/anjo_mau.html) | Globo | 1997 | Maria Adelaide Amaral
 [Suave Veneno](/novelas/suave_veneno.html) | Globo | 1999 | Aguinaldo Silva
