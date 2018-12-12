@@ -127,6 +127,14 @@ figurino (Beth Filipecki).
 
 ### Trilha Sonora
 
+Se os diálogos tratam de amor, as músicas da novela das oito não poderiam cantar outra coisa. Nas palavras do produtor musical Alberto Rosenblit, embora os temas possam variar da comédia romântica - como no caso de Catarina (Carolina Dieckmann), a menina namoradeira - ao do amor passional, como o de Laura (Vivianne Pasmanter), é sempre o tom apaixonado que rege a seleção da trilha sonora da novela. A começar pela música-tema, Falando de Amor, uma parceria do Quarteto em Cy com o MPB-4.
+
+A versão cantada por Zizi Possi, da italiana Per Amore, foi a música escolhida para os personagens principais, Helena (Regina Duarte) e Atílio (Antonio Fagundes). Essa música acompanha as imagens do casal, que se conhece em Veneza, Itália, e ali prova os sabores de um amor que nasce à primeira vista. Outra paixão que aparece desde o início da história é a de Maria Eduarda (Gabriela Duarte) e Marcelo (Fábio Assunção). Para eles, Djavan canta Nem Um Dia.
+
+A trilha desta novela também tem canções que definem o sentimento dos personagens. Enquanto Espero, de João Bosco, é o tema da personagem Branca (Susana Vieira), mulher poderosa que conquista a tudo e a todos, menos o coração de Atílio, por quem nutre uma paixão antiga e está sempre "à espera" de um final feliz. Outra personagem que tem na música uma síntese da sua personalidade é Catarina. Seu tema se chama Fora da Lei, cantada por Ed Motta, e sublinha todas as aventuras da menina que não mede esforços para se divertir, namorar e curtir a vida. Já para o casal Márcia (Maria Ceiça) e Wilson (Paulo Cesar Grande), a alegria dá lugar a Preconceito, título da música de Maria Bethânia que foi escolhida para eles. E tudo se compreende quando Márcia, que é da raça negra, engravida do marido Wilson, um homem branco mas que não aceita "ter uma filha escurinha", como diz a personagem.
+
+Há ainda Bandeira, de Zeca Baleiro, nos momentos da personagem Isabel (Cássia Kiss); Palpite, de Vanessa Rangel, para Milena (Carolina Ferraz); Paralelas, de Elba Ramalho, que acompanha a trajetória de Leonardo (Murilo Benício), o filho rejeitado de Branca; e Às Vezes Nunca, de Verônica Sabino, para Laura, a personagem de Vivianne Pasmanter. No total, são 12 músicas principais e ainda a trilha incidental que, segundo Rosenblit, não deverá fugir aos parâmetros da principal. "É uma novela definida em termos de sentimento e as músicas serão produzidas em função disso", comenta ele. As excessões são os casos em que o comentário musical pede humor ou tensão.
+
 * Abrazame asi (Roberto Carlos)
 * As vezes nunca (Verônica Sabino)
 * Bandeira (Zeca Baleiro)
