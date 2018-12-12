@@ -45,21 +45,21 @@ Tal e qual uma gata borralheira dos tempos modernos, Nice planeja um futuro bem 
 
 A interpretação de Glória Pires valorizará a aparência de anjo, repleta de candura, com que Nice vai circular pela mansão dos Medeiros. Seu lado sombrio ficará escondido da maioria dos personagens, embora seja revelado para o público. Trata-se de uma personagem difícil, mas Glória Pires, com seus 28 anos de carreira, é capaz de encarar qualquer desafio.
 
-- É sempre uma felicidade quando um personagem pode nos dar alguma coisa a mais - diz a atriz, que não compara a babá com outras vilãs que já criou, por exemplo, em Vale Tudo ou ainda em Mulheres de Areia.
+> É sempre uma felicidade quando um personagem pode nos dar alguma coisa a mais - diz a atriz, que não compara a babá com outras vilãs que já criou, por exemplo, em Vale Tudo ou ainda em Mulheres de Areia.
 
-- Nem acho que ela seja tão vilã, não a vejo assim - reforça, garantindo que não costuma estigmatizar suas personagens. Não faço a vilã ou a heroína, pelo contrário, procuro sempre humanizá-las.
+> Nem acho que ela seja tão vilã, não a vejo assim - reforça, garantindo que não costuma estigmatizar suas personagens. Não faço a vilã ou a heroína, pelo contrário, procuro sempre humanizá-las.
 
 E Glória Pires, que se dedicou a estudar a Nice, a descobrir realmente como ela é, para trazer à superfície o que a personagem tem de melhor, diz categórica:
 
-- Acho que ela é humana, gosta daquele bebê e é extremamente apaixonada por esse homem que idealizou. A Nice é movida pela paixão. Ela faz tudo para conquistar esse homem, para protegê-lo.
+> Acho que ela é humana, gosta daquele bebê e é extremamente apaixonada por esse homem que idealizou. A Nice é movida pela paixão. Ela faz tudo para conquistar esse homem, para protegê-lo.
 
 Glória, ainda, compara a apaixonada Nice a Isabel, do filme O Guarani, talvez a personagem mais apaixonada que já interpretou.
 
 Para acompanhá-la nessa empreitada, o homem amado ganha as feições de Kadu Moliterno, que volta a fazer o mocinho muitos anos depois do seu último galã, na novela Paraíso. Glória e Kadu têm várias novelas em comum e já fizeram par romântico algumas vezes, criando casais carismáticos, como em O Dono do Mundo. A boa convivência e a antiga amizade ajudam na hora da interpretação.
 
-- Nos divertimos muito trabalhando - assegura a atriz.
+> Nos divertimos muito trabalhando - assegura a atriz.
 
-- Tenho encontrado muito a Glorinha em minha carreira e é sempre uma alegria - completa Kadu, para quem Rodrigo reúne todos os predicados que formam um bom-moço: bom filho, bom caráter, honesto, sincero, íntegro, sem maldade. Rodrigo vive para o trabalho, para a família e considerava Paula a mulher da sua vida até saber que fora traído.
+> Tenho encontrado muito a Glorinha em minha carreira e é sempre uma alegria - completa Kadu, para quem Rodrigo reúne todos os predicados que formam um bom-moço: bom filho, bom caráter, honesto, sincero, íntegro, sem maldade. Rodrigo vive para o trabalho, para a família e considerava Paula a mulher da sua vida até saber que fora traído.
 
 Para o ator, é mais uma oportunidade de exercitar seu lado dramático, cercado por uma gama de bons atores. Em tempo: ele reencontra Glorinha, Denise Saraceni e Carlos Manga, com quem trabalhou na série Memorial de Maria Moura.
 
