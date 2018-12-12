@@ -70,6 +70,22 @@ A história da babá que quer se casar com o patrão é a trama central de Anjo 
 
 ### Fotos
 
-![1](address){:style="height: 190px; float: left; margin-right: 7px; margin-top: 7px;"}
-![2](address){:style="height: 190px; float: none; margin-right: 7px; margin-top: 7px;"}
+![Glória Pires e Cláudio Corrêa e Castro](/novelas/img/anjo_mau_gloria_pires_e_claudio_correa_e_castro.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Kadu Moliterno e Glória Pires](/novelas/img/anjo_mau_kadu_moliterno_e_gloria_pires.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Alessandra Negrini](/novelas/img/anjo_mau_alessandra_negrini.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Taís Araújo e Leonardo Brício](/novelas/img/anjo_mau_tais_araujo_e_leonardo_bricio.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Licurgo Spinola e Mauro Mendonça](/novelas/img/anjo_mau_licurgo_spinola_e_mauro_mendonca.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Ariclê Perez e Luiz Salém](/novelas/img/anjo_mau_aricle_perez_e_luiz_salem.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Kadu Moliterno](/novelas/img/anjo_mau_kadu_moliterno.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Lilia Cabral](/novelas/img/anjo_mau_lilia_cabral.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Beatriz Segall e Bel Kutner](/novelas/img/anjo_mau_beatriz_segall_bel_kutner.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Maria Padilha](/novelas/img/anjo_mau_maria_padilha.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Luciano Szafir](/novelas/img/anjo_mau_luciano_szafir.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Daniel Dantas](/novelas/img/anjo_mau_daniel_dantas_e_maria_padilha.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Regina Dourado](/novelas/img/anjo_mau_regina_dourado.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Samara Felippo, Emilio Orciollo Netto e Taís Araújo](/novelas/img/anjo_mau_samara_felippo_emilio_orciollo_netto_e_tais_araujo.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Jackson Antunes e Beatriz Segall](/novelas/img/anjo_mau_jackson_antunese_e_beatriz_segal.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Samara Felippo, Márcio Garcia e Taís Araújo](/novelas/img/anjo_mau_samara_felippo_marcio_garcia_e_tais_araujo.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Lavínia Vlasak, Otávio Muller e Glória Pires](/novelas/img/anjo_mau_lavinia_vlasak_otavio_muller_e_gloria_pires.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Ana Beatriz Nogueira](/novelas/img/anjo_mau_ana_beatriz_nogueira.jpg){:style="height: 250px; float: none; margin-right: 7px; margin-top: 7px;"}
 
