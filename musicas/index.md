@@ -11,3 +11,5 @@ Valorize o trabalho de seu artista preferido. Se você não tiver o CD com a mú
 [![Legião Urbana - Mais do Mesmo (1998)](/musicas/capas/legiaourbana-1998-maisdomesmo.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}](/musicas/legiaourbana-1998-maisdomesmo.html)
 [![Quarteto em Cy - O Melhor do Quarteto em Cy (1996)](/musicas/capas/quartetoemcy-1996-omelhor.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}](/musicas/quartetoemcy-1996-omelhor.html)
 [![Virgulóides - Virgulóides? (1997)](/musicas/capas/virguloides-1997-virguloides.jpg){:style="height: 200px; float: left; margin-right: 7px; margin-top: 7px;"}](/musicas/virguloides-1997-virguloides.html)
+
+Confira o meu ![Apple Music playlist](https://itunes.apple.com/ru/playlist/br-music/pl.u-r2yBDy2uRLq3x6). 
