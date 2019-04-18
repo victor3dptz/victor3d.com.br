@@ -6,7 +6,7 @@ permalink: /fale_conosco/
 
 Se você tem alguma dúvida, sugestão, crítica ou um comentário sobre este site, preencha o formulário abaixo ou envie um [e-mail](mailto:webmaster@victor3d.com.br). 
 
-<form class="form-horizontal" action="http://victor3d.karelia.pro/fale_conosco/index.php" role="form" Name = "livro" Method = "POST">
+<form class="form-horizontal" action="https://vds.victor3d.com.br/fale_conosco/index.php" role="form" Name = "livro" Method = "POST">
   <div class="form-group">
     <label for="nome" class="col-sm-2 control-label">Seu Nome:</label>
     <div class="col-sm-4">
