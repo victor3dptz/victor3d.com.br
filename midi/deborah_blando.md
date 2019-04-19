@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TITULO
+title: Deborah Blando
 permalink: /midi/deborah_blando.html
 ---
 
