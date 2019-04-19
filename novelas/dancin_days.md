@@ -31,7 +31,7 @@ Júlio Luís	| |
 ### Abertura
 
 <video poster="/novelas/img/dancin_days_abertura.png" id="player" playsinline controls>
-    <source src="http://srv.victor3d.com.br/novelas/dancin_days_1978.mp4" type="video/mp4">
+    <source src="https://124700.selcdn.ru/srv.victor3d.com.br/novelas/dancin_days_1978.mp4" type="video/mp4">
 </video>
 
 ### Sinopse

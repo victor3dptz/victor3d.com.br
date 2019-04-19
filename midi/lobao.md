@@ -4,4 +4,4 @@ title: Lobão
 permalink: /midi/lobao.html
 ---
 
-* [Me Chama](http://srv.victor3d.com.br/midi/mechama.mid)
+* [Me Chama](https://124700.selcdn.ru/srv.victor3d.com.br/midi/mechama.mid)

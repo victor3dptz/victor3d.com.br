@@ -35,7 +35,7 @@ Elizangela | Telma Elita |
 ### Abertura
 
 <video poster="/novelas/img/o_casarao_abertura.png" id="player" playsinline controls>
-    <source src="http://srv.victor3d.com.br/novelas/o_casarao_1976.mp4" type="video/mp4">
+    <source src="https://124700.selcdn.ru/srv.victor3d.com.br/novelas/o_casarao_1976.mp4" type="video/mp4">
 </video>
 
 ### Sinopse

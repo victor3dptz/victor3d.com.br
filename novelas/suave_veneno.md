@@ -34,7 +34,7 @@ Nuno Leal Maia | Samara Felippo | Luís Antônio Pillar
 ### Abertura
 
 <video poster="/novelas/img/suave_veneno_abertura.png" id="player" playsinline controls>
-    <source src="http://srv.victor3d.com.br/novelas/suave_veneno_1999.mp4" type="video/mp4">
+    <source src="https://124700.selcdn.ru/srv.victor3d.com.br/novelas/suave_veneno_1999.mp4" type="video/mp4">
 </video>
 
 ### Introdução

@@ -32,7 +32,7 @@ Isaac Bardavid | José Maria Monteiro | Ary Coslov
 ### Abertura
 
 <video poster="/novelas/img/escrava_isaura_abertura.png" id="player" playsinline controls>
-    <source src="http://srv.victor3d.com.br/novelas/escrava_isaura_1976.mp4" type="video/mp4">
+    <source src="https://124700.selcdn.ru/srv.victor3d.com.br/novelas/escrava_isaura_1976.mp4" type="video/mp4">
 </video>
 
 ### Sinopse

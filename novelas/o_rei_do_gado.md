@@ -32,7 +32,7 @@ Rogério Marcio | Manoel Boucinhas |
 ### Abertura
 
 <video poster="/novelas/img/o_rei_do_gado_abertura.png" id="player" playsinline controls>
-    <source src="http://srv.victor3d.com.br/novelas/o_rei_do_gado_1996.mp4" type="video/mp4">
+    <source src="https://124700.selcdn.ru/srv.victor3d.com.br/novelas/o_rei_do_gado_1996.mp4" type="video/mp4">
 </video>
 
 ### Sinopse

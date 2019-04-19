@@ -34,7 +34,7 @@ Dorinha Durval | Angelito Mello |
 ### Abertura
 
 <video poster="/novelas/img/o_bem_amado_abertura.png" id="player" playsinline controls>
-    <source src="http://srv.victor3d.com.br/novelas/o_bem_amado_1973.mp4" type="video/mp4">
+    <source src="https://124700.selcdn.ru/srv.victor3d.com.br/novelas/o_bem_amado_1973.mp4" type="video/mp4">
 </video>
 
 ### Sinopse

@@ -4,5 +4,5 @@ title: Ronaldo Bôscoli / Roberto Menescal
 permalink: /midi/ronaldo_boscoli_roberto_menescal.html
 ---
 
-* [O Barquinho](http://srv.victor3d.com.br/midi/O_Barquinho-1.mid)
-* [Vagamente](http://srv.victor3d.com.br/midi/Vagam.mid)
+* [O Barquinho](https://124700.selcdn.ru/srv.victor3d.com.br/midi/O_Barquinho-1.mid)
+* [Vagamente](https://124700.selcdn.ru/srv.victor3d.com.br/midi/Vagam.mid)
