@@ -14,6 +14,6 @@ Valorize o trabalho de seu artista preferido. Se você não tiver o CD com a mú
 
 ### Apple Music playlist
 
-[![Apple Music playlist](/musicas/capas/apple-music-logo.png){:style="height: 191px; float: none; margin-right: 7px; margin-top: 7px;"}](https://itunes.apple.com/ru/playlist/br-music/pl.u-r2yBDy2uRLq3x6)
+[![Apple Music playlist](/musicas/capas/apple-music-logo.png){:style="height: 191px; float: none; margin-right: 7px; margin-top: 7px;"}](https://itunes.apple.com/br/playlist/br-music/pl.u-r2yBDy2uRLq3x6)
 
-Confira o nosso [playlist](https://itunes.apple.com/ru/playlist/br-music/pl.u-r2yBDy2uRLq3x6).
+Confira o nosso [playlist](https://itunes.apple.com/br/playlist/br-music/pl.u-r2yBDy2uRLq3x6).
