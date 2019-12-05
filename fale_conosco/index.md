@@ -6,7 +6,6 @@ permalink: /fale_conosco/
 
 Se você tem alguma dúvida, sugestão, crítica ou um comentário sobre este site, preencha o formulário abaixo ou envie um [e-mail](mailto:webmaster@victor3d.com.br). 
 
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <form class="form-horizontal" action="https://srv.victor3d.com.br/fale_conosco/index.php" role="form" Name = "livro" Method = "POST">
   <div class="form-group">
     <label for="nome" class="col-sm-2 control-label">Seu Nome:</label>
@@ -36,7 +35,7 @@ Se você tem alguma dúvida, sugestão, crítica ou um comentário sobre este si
   </div>
   <div class="form-group">
     <div class="col-sm-7">
-      <div class="g-recaptcha" data-sitekey="6LdCDfQSAAAAAAQ3aLDvmjvEx3qHJoZn1JyR6eLO"></div>
+
     </div>
   </div>
   <div class="form-group">
