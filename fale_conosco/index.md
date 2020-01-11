@@ -6,7 +6,7 @@ permalink: /fale_conosco/
 
 Se você tem alguma dúvida, sugestão, crítica ou um comentário sobre este site, preencha o formulário abaixo e envie um e-mail. 
 
-<form class="form-horizontal" action="http://sev.victor3d.com.br/fale_conosco/index.php" role="form" Name = "livro" Method = "POST">
+<form class="form-horizontal" action="https://sev.victor3d.com.br/fale_conosco/index.php" role="form" Name = "livro" Method = "POST">
   <div class="form-group">
     <label for="nome" class="col-sm-2 control-label">Seu Nome:</label>
     <div class="col-sm-4">
