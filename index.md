@@ -8,13 +8,6 @@ permalink: /
 
 #### Caro visitante, nós dedicamos mais de 90% do nosso tempo na internet em nosso site, tudo para que você possa ficar informado e atualizado de tudo da internet e do mundo, em troca nós pedimos um voto para que outras pessoas vejam nosso trabalho.
 
-### Músicas Nacionais
-
-[![Barão Vermelho - Álbum (1996)](/musicas/capas/baraovermelho-1996-album.jpg){:style="height: 150px; float: left; margin-right: 7px; margin-top: 7px;"}](/musicas/baraovermelho-1996-album.html)
-[![Kid Abelha - Greatest Hits (1990)](/musicas/capas/kidabelha-1990-greatesthits.jpg){:style="height: 150px; float: left; margin-right: 7px; margin-top: 7px;"}](/musicas/kidabelha-1990-greatesthits.html)
-[![Legião Urbana - Mais do Mesmo (1998)](/musicas/capas/legiaourbana-1998-maisdomesmo.jpg){:style="height: 150px; float: left; margin-right: 7px; margin-top: 7px;"}](/musicas/legiaourbana-1998-maisdomesmo.html)
-[![Virgulóides - Virgulóides? (1997)](/musicas/capas/virguloides-1997-virguloides.jpg){:style="height: 150px; float: none; margin-right: 7px; margin-top: 7px;"}](/musicas/virguloides-1997-virguloides.html)
-
 <div class="posts">
   {% for post in site.posts limit:1 %}
     <article class="post">
