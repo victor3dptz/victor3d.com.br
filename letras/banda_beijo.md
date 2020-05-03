@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TITULO
+title: Banda Beijo
 permalink: /letras/banda_beijo.html
 ---
 
