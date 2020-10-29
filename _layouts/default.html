@@ -24,64 +24,8 @@
 <!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter43629429 = new Ya.Metrika({ id:43629429, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/43629429" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
-<style>
-   ol { padding: 0px; margin: 0px; list-style: decimal-leading-zero inside; color: #ccc; width: 460px; border-top: 1px solid #ccc; font-size: 0.9em; }
-        ol li { position: relative; margin: 0px; padding: 9px 2px 10px; border-bottom: 1px solid #ccc; cursor: pointer; }
-        ol li a { display: block; text-indent: -3.3ex; padding: 0px 0px 0px 20px; }
-        li.playing { color: #aaa; text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.3); }
-        li.playing a { color: #000; }
-        li.playing:before { content: '♬'; width: 14px; height: 14px; padding: 3px; line-height: 14px; margin: 0px; position: absolute; left: -24px; top: 9px; color: #000; font-size: 13px; text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2); }
 
-    }
-</style>
- <script src="/musicas/js/audio.js"></script>
  
-    <script>
-        $(function() {
-            // Setup the player to autoplay the next track
-            var a = audiojs.createAll({
-                trackEnded: function() {
-                    var next = $('ol li.playing').next();
-                    if (!next.length) next = $('ol li').first();
-                    next.addClass('playing').siblings().removeClass('playing');
-                    audio.load($('a', next).attr('data-src'));
-                    audio.play();
-                }
-            });
-
-            // Load in the first track
-            var audio = a[0];
-            first = $('ol a').attr('data-src');
-            $('ol li').first().addClass('playing');
-            audio.load(first);
-
-            // Load in a track on click
-            $('ol li').click(function(e) {
-                e.preventDefault();
-                $(this).addClass('playing').siblings().removeClass('playing');
-                audio.load($('a', this).attr('data-src'));
-                audio.play();
-            });
-            // Keyboard shortcuts
-            $(document).keydown(function(e) {
-                var unicode = e.charCode ? e.charCode : e.keyCode;
-                // right arrow
-                if (unicode == 39) {
-                    var next = $('li.playing').next();
-                    if (!next.length) next = $('ol li').first();
-                    next.click();
-                    // back arrow
-                } else if (unicode == 37) {
-                    var prev = $('li.playing').prev();
-                    if (!prev.length) prev = $('ol li').last();
-                    prev.click();
-                    // spacebar
-                } else if (unicode == 32) {
-                    audio.playPause();
-                }
-            })
-        });
-    </script>
     </head>
   <body>
 <nav class="navbar navbar-inverse" role="navigation">
@@ -95,8 +39,7 @@
 	 <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Músicas<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
-			  <li><a href=/musicas/>Músicas Nacionais</a></li>
-<li><a href=/midi/>Músicas MIDI</a></li>
+			<li><a href=/midi/>Músicas MIDI</a></li>
             <li><a href="/letras/">Letras de músicas</a></li>
               </ul>
         </li>
@@ -160,9 +103,6 @@
         <p class="text-muted text-center">2014-<time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>&copy;Victor3D</p>
       </div>
     </div>
-
-<script src="/js/plyr.js"></script>
-<script>const player = new Plyr('#player');</script>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="/js/jquery.min.js"></script>
