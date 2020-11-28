@@ -37,7 +37,7 @@ Stênio Garcia | |
 ### Abertura
 
 <video poster="/novelas/img/torre_de_babel_abertura.png" id="player" playsinline controls>
-    <source src="https://124700.selcdn.ru/srv.victor3d.com.br/novelas/torre_de_babel_1998.mp4" type="video/mp4">
+    <source src="https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/novelas%2Ftorre_de_babel_1998.mp4" type="video/mp4">
 </video>
 
 ### Trama

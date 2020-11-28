@@ -33,7 +33,7 @@ Cristina Bittencourt | |
 ### Abertura
 
 <video poster="/novelas/img/escalada_abertura.png" id="player" playsinline controls>
-    <source src="https://124700.selcdn.ru/srv.victor3d.com.br/novelas/escalada_1975.mp4" type="video/mp4">
+    <source src="https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/novelas%2Fescalada_1975.mp4" type="video/mp4">
 </video>
 
 ### Sinopse

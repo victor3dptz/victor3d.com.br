@@ -36,7 +36,7 @@ Patrick Oliveira | [Flávio Migliaccio](/novelas/flavio_migliaccio.html) | Norto
 ### Abertura
 
 <video poster="/novelas/img/a_proxima_vitima_abertura.png" id="player" playsinline controls>
-    <source src="https://124700.selcdn.ru/srv.victor3d.com.br/novelas/a_proxima_vitima_1995.mp4" type="video/mp4">
+    <source src="https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/novelas%2Fa_proxima_vitima_1995.mp4" type="video/mp4">
 </video>
 
 ### Sinopse

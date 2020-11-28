@@ -41,7 +41,7 @@ Dina Sfat | Paulo César Pereio |
 ### Abertura
 
 <video poster="/novelas/img/gabriela_abertura.png" id="player" playsinline controls>
-    <source src="https://124700.selcdn.ru/srv.victor3d.com.br/novelas/gabriela_1975.mp4" type="video/mp4">
+    <source src="https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/novelas%2Fgabriela_1975.mp4" type="video/mp4">
 </video>
 
 ### Sinopse

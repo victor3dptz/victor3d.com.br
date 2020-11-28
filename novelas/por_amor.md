@@ -41,7 +41,7 @@ Carolina Dieckmann | Karina Perez |
 ### Abertura
 
 <video poster="/novelas/img/por_amor_abertura.png" id="player" playsinline controls>
-    <source src="https://124700.selcdn.ru/srv.victor3d.com.br/novelas/por_amor_1997.mp4" type="video/mp4">
+    <source src="https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/novelas%2Fpor_amor_1997.mp4" type="video/mp4">
 </video>
 
 ### Sinopse

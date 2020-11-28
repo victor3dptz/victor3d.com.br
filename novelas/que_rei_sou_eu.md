@@ -32,7 +32,7 @@ Vera Holtz | Gianfrancesco Guarnieri |
 ### Abertura
 
 <video poster="/novelas/img/que_rei_sou_eu_abertura.png" id="player" playsinline controls>
-    <source src="https://124700.selcdn.ru/srv.victor3d.com.br/novelas/que_rei_sou_eu_1989.mp4" type="video/mp4">
+    <source src="https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/novelas%2Fque_rei_sou_eu_1989.mp4" type="video/mp4">
 </video>
 
 ### Sinopse

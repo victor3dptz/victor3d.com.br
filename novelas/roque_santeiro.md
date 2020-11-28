@@ -40,7 +40,7 @@ Wanda Kosmos | Lutero Luiz | Clara Farjado
 ### Abertura
 
 <video poster="/novelas/img/roque_santeiro_abertura.png" id="player" playsinline controls>
-    <source src="https://124700.selcdn.ru/srv.victor3d.com.br/novelas/roque_santeiro_1985.mp4" type="video/mp4">
+    <source src="https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/novelas%2Froque_santeiro_1985.mp4" type="video/mp4">
 </video>
 
 ### Sinopse
