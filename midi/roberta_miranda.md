@@ -4,4 +4,4 @@ title: Roberta Miranda
 permalink: /midi/roberta_miranda.html
 ---
 
-* [Vá com Deus](https://124700.selcdn.ru/srv.victor3d.com.br/midi/Va_Com_Deus.mid)
+* [Vá com Deus](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2FVa_Com_Deus.mid)

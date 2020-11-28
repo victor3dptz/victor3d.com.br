@@ -4,5 +4,5 @@ title: Gilberto Gil
 permalink: /midi/gilberto_gil.html
 ---
 
-* [Palco](https://124700.selcdn.ru/srv.victor3d.com.br/midi/palco.mid)
-* [Refazenda](https://124700.selcdn.ru/srv.victor3d.com.br/midi/Refazen.mid)
+* [Palco](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fpalco.mid)
+* [Refazenda](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2FRefazen.mid)

@@ -4,4 +4,4 @@ title: Marina Lima
 permalink: /midi/marina_lima.html
 ---
 
-* [Nada por Mim](https://124700.selcdn.ru/srv.victor3d.com.br/midi/nadapor.mid)
+* [Nada por Mim](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fnadapor.mid)

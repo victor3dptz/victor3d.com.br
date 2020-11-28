@@ -4,4 +4,4 @@ title: Chico César
 permalink: /midi/chico_cesar.html
 ---
 
-* [A Primeira Vista](https://124700.selcdn.ru/srv.victor3d.com.br/midi/aprim.mid)
+* [A Primeira Vista](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Faprim.mid)

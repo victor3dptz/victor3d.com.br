@@ -4,6 +4,6 @@ title: Kid Abelha
 permalink: /midi/kid_abelha.html
 ---
 
-* [Fixação](https://124700.selcdn.ru/srv.victor3d.com.br/midi/fixacao.mid)
-* [Nada por Mim](https://124700.selcdn.ru/srv.victor3d.com.br/midi/nadapor.mid)
-* [Pintura Íntima](https://124700.selcdn.ru/srv.victor3d.com.br/midi/pintutma.mid)
+* [Fixação](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Ffixacao.mid)
+* [Nada por Mim](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fnadapor.mid)
+* [Pintura Íntima](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fpintutma.mid)

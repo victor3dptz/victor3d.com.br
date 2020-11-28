@@ -4,12 +4,12 @@ title: Djavan
 permalink: /midi/djavan.html
 ---
 
-* [Faltando um Pedaço](https://124700.selcdn.ru/srv.victor3d.com.br/midi/faltando_um_pedaco.mid)
-* [Flor de Liz](https://124700.selcdn.ru/srv.victor3d.com.br/midi/flor_de_liz.mid)
-* [Lilas](https://124700.selcdn.ru/srv.victor3d.com.br/midi/lilas.mid)
-* [Meu Bem Querer](https://124700.selcdn.ru/srv.victor3d.com.br/midi/Mbemquer.mid)
-* [Oceano](https://124700.selcdn.ru/srv.victor3d.com.br/midi/oceano.mid)
-* Pétala    [MIDI1](https://124700.selcdn.ru/srv.victor3d.com.br/midi/Petala.mid) [MIDI2](https://124700.selcdn.ru/srv.victor3d.com.br/midi/petala2.mid)
-* [Samurai](https://124700.selcdn.ru/srv.victor3d.com.br/midi/samurai.mid)
-* [Se](https://124700.selcdn.ru/srv.victor3d.com.br/midi/se.mid)
-* [Sina](https://124700.selcdn.ru/srv.victor3d.com.br/midi/sina.mid)
+* [Faltando um Pedaço](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Ffaltando_um_pedaco.mid)
+* [Flor de Liz](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fflor_de_liz.mid)
+* [Lilas](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Flilas.mid)
+* [Meu Bem Querer](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2FMbemquer.mid)
+* [Oceano](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Foceano.mid)
+* Pétala    [MIDI1](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2FPetala.mid) [MIDI2](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fpetala2.mid)
+* [Samurai](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fsamurai.mid)
+* [Se](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fse.mid)
+* [Sina](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fsina.mid)

@@ -4,9 +4,9 @@ title: Cidade Negra
 permalink: /midi/cidade_negra.html
 ---
 
-* A Sombra da Maldade    [MIDI1](https://124700.selcdn.ru/srv.victor3d.com.br/midi/A_sombra_da_maldade.mid) [MIDI2](https://124700.selcdn.ru/srv.victor3d.com.br/midi/a_sombra_da_maldade2.mid)
-* Aonde Você Mora    [MIDI1](https://124700.selcdn.ru/srv.victor3d.com.br/midi/Aonde_voce_mora.mid) [MIDI2](https://124700.selcdn.ru/srv.victor3d.com.br/midi/onde_voce_mora2.mid)
-* [Downtown](https://124700.selcdn.ru/srv.victor3d.com.br/midi/downtown.mid)
-* [Firmamento](https://124700.selcdn.ru/srv.victor3d.com.br/midi/firmam.mid)
-* O Erê    [MIDI1](https://124700.selcdn.ru/srv.victor3d.com.br/midi/O_Ere.mid) [MIDI2](https://124700.selcdn.ru/srv.victor3d.com.br/midi/o_ere2.mid)
-* Pensamento    [MIDI1](https://124700.selcdn.ru/srv.victor3d.com.br/midi/Pensamento.mid) [MIDI2](https://124700.selcdn.ru/srv.victor3d.com.br/midi/pensamento2.mid)
+* A Sombra da Maldade    [MIDI1](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2FA_sombra_da_maldade.mid) [MIDI2](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fa_sombra_da_maldade2.mid)
+* Aonde Você Mora    [MIDI1](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2FAonde_voce_mora.mid) [MIDI2](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fonde_voce_mora2.mid)
+* [Downtown](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fdowntown.mid)
+* [Firmamento](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Ffirmam.mid)
+* O Erê    [MIDI1](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2FO_Ere.mid) [MIDI2](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fo_ere2.mid)
+* Pensamento    [MIDI1](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2FPensamento.mid) [MIDI2](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fpensamento2.mid)

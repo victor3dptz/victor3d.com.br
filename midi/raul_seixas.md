@@ -4,6 +4,6 @@ title: Raul Seixas
 permalink: /midi/raul_seixas.html
 ---
 
-* [Gita](https://124700.selcdn.ru/srv.victor3d.com.br/midi/gita.mid)
-* [Metamorfose Ambulante](https://124700.selcdn.ru/srv.victor3d.com.br/midi/metosg.mid)
-* [Rock das Aranhas](https://124700.selcdn.ru/srv.victor3d.com.br/midi/rock.mid)
+* [Gita](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fgita.mid)
+* [Metamorfose Ambulante](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fmetosg.mid)
+* [Rock das Aranhas](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Frock.mid)

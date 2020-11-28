@@ -4,9 +4,9 @@ title: Asa de Águia
 permalink: /midi/asa_de_aguia.html
 ---
 
-* [Bragadá](https://124700.selcdn.ru/srv.victor3d.com.br/midi/bragada.mid)
-* [Com Amor](https://124700.selcdn.ru/srv.victor3d.com.br/midi/Com_Amor.mid)
-* [Dias dos Namorados & Pout Pourri](https://124700.selcdn.ru/srv.victor3d.com.br/midi/Dia_dos_Namorados_PoutPourri.mid)
-* [Ôba vou passear](https://124700.selcdn.ru/srv.victor3d.com.br/midi/oba_vou_passear.mid)
-* [Porto Seguro](https://124700.selcdn.ru/srv.victor3d.com.br/midi/Porto_Seguro.mid)
-* [Xó Satanás](https://124700.selcdn.ru/srv.victor3d.com.br/midi/satanas.mid)
+* [Bragadá](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fbragada.mid)
+* [Com Amor](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2FCom_Amor.mid)
+* [Dias dos Namorados & Pout Pourri](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2FDia_dos_Namorados_PoutPourri.mid)
+* [Ôba vou passear](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Foba_vou_passear.mid)
+* [Porto Seguro](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2FPorto_Seguro.mid)
+* [Xó Satanás](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fsatanas.mid)

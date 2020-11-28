@@ -4,5 +4,5 @@ title: Raça Negra
 permalink: /midi/raca_negra.html
 ---
 
-* [Preciso ter alguém](https://124700.selcdn.ru/srv.victor3d.com.br/midi/Pretguem.mid)
-* [Sozinho](https://124700.selcdn.ru/srv.victor3d.com.br/midi/Cavsozin.mid)
+* [Preciso ter alguém](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2FPretguem.mid)
+* [Sozinho](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2FCavsozin.mid)

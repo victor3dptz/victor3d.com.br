@@ -4,7 +4,7 @@ title: Daniela Mercury
 permalink: /midi/daniela_mercury.html
 ---
 
-* [Batuque](https://124700.selcdn.ru/srv.victor3d.com.br/midi/batuque.mid)
-* [Minas com Bahia](https://124700.selcdn.ru/srv.victor3d.com.br/midi/minas_com_bahia.mid)
-* [Nobre Vagabundo](https://124700.selcdn.ru/srv.victor3d.com.br/midi/Nobre_Vagabundo.mid)
-* [O Canto dessa Cidade](https://124700.selcdn.ru/srv.victor3d.com.br/midi/O_Canto_Dessa_Cidade.mid)
+* [Batuque](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fbatuque.mid)
+* [Minas com Bahia](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fminas_com_bahia.mid)
+* [Nobre Vagabundo](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2FNobre_Vagabundo.mid)
+* [O Canto dessa Cidade](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2FO_Canto_Dessa_Cidade.mid)

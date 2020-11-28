@@ -4,8 +4,8 @@ title: Mamonas Assassinas
 permalink: /midi/mamonas_assassinas.html
 ---
 
-* [Lá Vem O Alemão](https://124700.selcdn.ru/srv.victor3d.com.br/midi/alemao.mid)
-* [Pelados em Santos](https://124700.selcdn.ru/srv.victor3d.com.br/midi/pelados.mid)
-* [Robocop Gay](https://124700.selcdn.ru/srv.victor3d.com.br/midi/gay.mid)
-* [Sabão Crá Crá](https://124700.selcdn.ru/srv.victor3d.com.br/midi/sabao.mid)
-* [Vira Vira](https://124700.selcdn.ru/srv.victor3d.com.br/midi/vira.mid)
+* [Lá Vem O Alemão](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Falemao.mid)
+* [Pelados em Santos](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fpelados.mid)
+* [Robocop Gay](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fgay.mid)
+* [Sabão Crá Crá](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fsabao.mid)
+* [Vira Vira](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fvira.mid)

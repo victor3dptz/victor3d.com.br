@@ -4,4 +4,4 @@ title: Carlos Gomes
 permalink: /midi/carlos_gomes.html
 ---
 
-* [La Bolleta](https://124700.selcdn.ru/srv.victor3d.com.br/midi/La_Bolleta.mid)
+* [La Bolleta](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2FLa_Bolleta.mid)

@@ -4,5 +4,5 @@ title: Villa Lobos
 permalink: /midi/villa_lobos.html
 ---
 
-* [Bachianas](https://124700.selcdn.ru/srv.victor3d.com.br/midi/villa2.mid)
-* [Trenzinho Caipira](https://124700.selcdn.ru/srv.victor3d.com.br/midi/vila1.mid)
+* [Bachianas](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fvilla2.mid)
+* [Trenzinho Caipira](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/midi%2Fvila1.mid)
