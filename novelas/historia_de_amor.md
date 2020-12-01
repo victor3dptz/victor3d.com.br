@@ -38,7 +38,7 @@ Ana Rosa | Mônica Carvalho |
 
 ### Abertura
 
-<video poster="/novelas/img/historia de amor_abertura.png" id="player" playsinline controls>
+<video poster="/novelas/img/historia_de_amor_abertura.png" id="player" playsinline controls>
     <source src="https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grwdgud0delr/b/victor3d.com.br/o/novelas%2Fhistoria_de_amor_1995.mp4" type="video/mp4">
 </video>
 
