@@ -37,5 +37,5 @@ Partido Alto | Globo | 1984 | Aguinaldo Silva e Glória Perez
 Bambolê | Globo | 1987/88 | Daniel Más e Ana Maria Moretzsohn
 Bebê a Bordo | Globo | 1988/89 | Carlos Lombardi
 Tieta | Globo | 1989/90 | Aguinaldo Silva, Ana Maria Moretzohn e Ricardo Linhares
-Meu Bem, Meu Mal | Globo | 1990/91 | Cassiano Gabus Mendes
+[Meu Bem, Meu Mal](/novelas/meu_bem_meu_mal.html) | Globo | 1990/91 | Cassiano Gabus Mendes
 Pedra Sobre Pedra | Globo | 1992 | Aguinaldo Silva

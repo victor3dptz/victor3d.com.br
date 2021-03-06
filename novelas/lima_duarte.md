@@ -33,7 +33,7 @@ Marron Glacé | Globo | 1979/80 | Cassiano Gabus Mendes
 [Roque Santeiro](/novelas/roque_santeiro.html) | Globo | 1985 | Dias Gomes
 O Salvador da Pátria | Globo | 1989 | Lauro César Muniz
 Rainha da Sucata | Globo | 1990 | Sílvio de Abreu
-Meu Bem, Meu Mal | Globo | 1990/91 | Cassiano Gabus Mendes
+[Meu Bem, Meu Mal](/novelas/meu_bem_meu_mal.html) | Globo | 1990/91 | Cassiano Gabus Mendes
 Pedra Sobre Pedra | Globo | 1992 | Aguinaldo Silva
 Fera Ferida | Globo | 1993 | Aguinaldo Silva, Ana Maria Moretzsohn e Ricardo Linhares
 [A Próxima Vítima](/novelas/a_proxima_vitima.html) | Globo | 1995 | Sílvio de Abreu
