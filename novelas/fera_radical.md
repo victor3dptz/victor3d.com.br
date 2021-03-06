@@ -60,7 +60,7 @@ O romance entre Cláudia e Fernando engata, e os dois marcam a data do casamento
 ![Malu Mader](/novelas/img/fera_radical_malu_mader.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Yara Amaral e Paulo Goulart](/novelas/img/fera_radical_yara_amaral_e_paulo_goulart.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Thales Pan Chacon e Carla Camuratti](/novelas/img/fera_radical_thales_pan_chacon_carla_camuratti.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Malu Mader, José Mayer e Gonzaga Blota](/novelas/img/fera_radical_malu_mader_jose_mayer_gonzaga_blota.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Malu Mader e Yara Amaral](/novelas/img/fera_radical_malu_mader_yara_amaral.jpg){:style="height: 250px; float: none; margin-right: 7px; margin-top: 7px;"}
+![Malu Mader, José Mayer e Gonzaga Blota](/novelas/img/fera_radical_malu_mader_jose_mayer_gonzaga_blota.jpg){:style="height: 250px; float: none; margin-right: 7px; margin-top: 7px;"}
+
 
 
