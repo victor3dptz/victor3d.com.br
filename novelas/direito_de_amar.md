@@ -42,5 +42,5 @@ Enquanto isso, Montserrat mantém sob seus cuidados uma mulher, Joana (Ítala Na
 ### Fotos
 
 ![Carlos Vereza, Suzana Faini e Glória Pires](/novelas/img/direito_de_amar_carlos_vereza_suzana_faini_e_gloria_pires.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Lauro Corona e Glória Pires](/novelas/img/direito_de_amar_lauro_corona_e_gloria_pires.jpg){:style="height: 195px; float: none; margin-right: 7px; margin-top: 7px;"}
+![Lauro Corona e Glória Pires](/novelas/img/direito_de_amar_lauro_corona_e_gloria_pires.jpg){:style="height: 250px; float: none; margin-right: 7px; margin-top: 7px;"}
 
