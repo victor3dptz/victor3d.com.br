@@ -15,3 +15,4 @@ O Homem Proibido | Globo | 1982 | Teixeira Filho
 Roda de Fogo | Globo | 1986/87 | Lauro César Muniz
 Olho por Olho | Manchete | 1988/89 | José Louzeiro e Geraldo Carneiro
 O Salvador da Pátria | Globo | 1989 | Lauro César Muniz
+[Tropicaliente](/novelas/tropicaliente.html) | Globo | 1994 | Walther Negrão
