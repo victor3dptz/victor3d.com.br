@@ -33,7 +33,7 @@ Sétimo Sentido | Globo | 1982 | Janete Clair
 Eu Prometo | Globo | 1983/84 | Janete Clair
 O Outro | Globo | 1987 | Aguinaldo Silva
 O Salvador da Pátria | Globo | 1989 | Lauro César Muniz
-Lua Cheia de Amor | Globo | 1990/91 | Ana Maria Moretzsohn, Ricardo Linhares e Maria Carmem Barbosa
+[Lua Cheia de Amor](/novelas/lua_cheia_de_amor.html) | Globo | 1990/91 | Ana Maria Moretzsohn, Ricardo Linhares e Maria Carmem Barbosa
 Deus nos Acuda | Globo | 1992/93 | Sílvio de Abreu
 Tropicaliente | Globo | 1994 | Walter Negrão
 [A Próxima Vítima](/novelas/a_proxima_vitima.html) | Globo | 1995 | Sílvio de Abreu

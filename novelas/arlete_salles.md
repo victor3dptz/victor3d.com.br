@@ -32,7 +32,7 @@ Amor com Amor se Paga | Globo | 1984 | Ivani Ribeiro
 [Dona Beija](/novelas/dona_beija.html) | Manchete | 1986 | Wilson Aguiar Filho
 O Outro | Globo | 1987 | Aguinaldo Silva
 Tieta | Globo | 1989/90 | Aguinaldo Silva, Ana Maria Moretzohn e Ricardo Linhares
-Lua Cheia de Amor | Globo | 1990/91 | Ana Maria Moretzsohn, Ricardo Linhares e Maria Carmem Barbosa
+[Lua Cheia de Amor](/novelas/lua_cheia_de_amor.html) | Globo | 1990/91 | Ana Maria Moretzsohn, Ricardo Linhares e Maria Carmem Barbosa
 Pedra Sobre Pedra | Globo | 1992 | Aguinaldo Silva
 Fera Ferida | Globo | 1993 | Aguinaldo Silva, Ana Maria Moretzsohn e Ricardo Linhares
 Cara e Coroa | Globo | 1995/96 | Antonio Calmon
