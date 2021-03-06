@@ -25,7 +25,7 @@ Cabocla | Globo | 1979 | Benedito Ruy Barbosa
 As Três Marias | Globo | 1980/81 | Wilson Rocha
 Louco Amor | Globo | 1983 | Gilberto Braga
 Partido Alto | Globo | 1984 | Aguinaldo Silva e Glória Perez
-Direito de Amar | Globo | 1987 | Walter Negrão
+[Direito de Amar](/novelas/direito_de_amar.html) | Globo | 1987 | Walter Negrão
 Vale Tudo | Globo | 1988/89 | Gilberto Braga Aguinaldo Silva e Leonor Bassères
 Mico Preto | Globo | 1990 | Marcílio Moraes, Leonor Bassères e Euclydes Marinho
 O Dono do Mundo | Globo | 1991/92 | Gilberto Braga, Leonor Bassères, Ângela Carneiro e Ricardo Linhares
