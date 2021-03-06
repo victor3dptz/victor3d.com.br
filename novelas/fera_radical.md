@@ -53,13 +53,14 @@ O romance entre Cláudia e Fernando engata, e os dois marcam a data do casamento
 ### Fotos
 
 ![Evandro Mesquita](/novelas/img/fera_radical_evandro_mesquita.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Yara Amaral](/novelas/img/fera_radical_yara_amaral.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![José Mayer, Malu Mader, Paylo Goulart e Laura Cardoso](/novelas/img/fera_radical_jose_mayer_malu_mader_paulo_goulart_laura_cardoso.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Malu Mader e José Mayer](/novelas/img/fera_radical_malu_mader_e_jose_mayer.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Malu Mader, José Mayer e Gonzaga Blota](/novelas/img/fera_radical_malu_mader_jose_mayer_gonzaga_blota.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Malu Mader e Ludoval Campos](/novelas/img/fera_radical_malu_mader_ludoval_campos.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Malu Mader e Yara Amaral](/novelas/img/fera_radical_malu_mader_yara_amaral.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Malu Mader](/novelas/img/fera_radical_malu_mader.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Thales Pan Chacon e Carla Camuratti](/novelas/img/fera_radical_thales_pan_chacon_carla_camuratti.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
 ![Yara Amaral e Paulo Goulart](/novelas/img/fera_radical_yara_amaral_e_paulo_goulart.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Yara Amaral](/novelas/img/fera_radical_yara_amaral.jpg){:style="height: 250px; float: none; margin-right: 7px; margin-top: 7px;"}
+![Thales Pan Chacon e Carla Camuratti](/novelas/img/fera_radical_thales_pan_chacon_carla_camuratti.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Malu Mader, José Mayer e Gonzaga Blota](/novelas/img/fera_radical_malu_mader_jose_mayer_gonzaga_blota.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Malu Mader e Yara Amaral](/novelas/img/fera_radical_malu_mader_yara_amaral.jpg){:style="height: 250px; float: none; margin-right: 7px; margin-top: 7px;"}
+
 
