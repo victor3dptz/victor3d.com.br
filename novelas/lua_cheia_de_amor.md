@@ -53,10 +53,10 @@ Enquanto isso, Genu, ainda sonhando com o retorno do marido, nem percebe o amor 
 
 ### Fotos
 
-![Arlete Salles](/novelas/img/lua_cheia_de_amor-arlete_salles.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Arlete Salles](/novelas/img/lua_cheia_de_amor_arlete_salles2.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Francisco Cuoco e Norma Blum](/novelas/img/lua_cheia_de_amor_francisco_cuoco_norma_blum.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Marília Pera](/novelas/img/lua_cheia_de_amor_marilia_pera.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Marília Pera](/novelas/img/lua_cheia_de_amor_marilia_pera2.jpg){:style="height: 250px; float: left; margin-right: 7px; margin-top: 7px;"}
-![Norma Blum](/novelas/img/lua_cheia_de_amor_norma_blum.jpg){:style="height: 250px; float: none; margin-right: 7px; margin-top: 7px;"}
+![Arlete Salles](/novelas/img/lua_cheia_de_amor-arlete_salles.jpg){:style="height: 230px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Arlete Salles](/novelas/img/lua_cheia_de_amor_arlete_salles2.jpg){:style="height: 230px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Francisco Cuoco e Norma Blum](/novelas/img/lua_cheia_de_amor_francisco_cuoco_norma_blum.jpg){:style="height: 230px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Marília Pera](/novelas/img/lua_cheia_de_amor_marilia_pera.jpg){:style="height: 230px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Marília Pera](/novelas/img/lua_cheia_de_amor_marilia_pera2.jpg){:style="height: 230px; float: left; margin-right: 7px; margin-top: 7px;"}
+![Norma Blum](/novelas/img/lua_cheia_de_amor_norma_blum.jpg){:style="height: 230px; float: none; margin-right: 7px; margin-top: 7px;"}
 
