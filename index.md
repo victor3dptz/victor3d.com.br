@@ -26,6 +26,8 @@ permalink: /
   {% endfor %}
 </div>
 
+[![Get free bitcoins](https://static1.freebitco.in/banners/728x90-3.png)](https://freebitco.in/?r=55417)
+
 ### Novelas
 
 [![Os Imigrantes](/novelas/img/os_imigrantes_escada.jpg){:style="height: 150px; float: left; margin-right: 7px; margin-top: 7px;"}](/novelas/os_imigrantes.html)
